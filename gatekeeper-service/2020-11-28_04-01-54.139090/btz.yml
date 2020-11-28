@@ -1,0 +1,30 @@
+## Blaze Meter API Key
+included-configs:
+- ../blaze_meter/apikey.yml
+
+execution:
+- executor: locust
+  concurrency: 1000
+  ramp-up: 1m
+  scenario: example
+
+scenarios:
+  example:
+    default-address: http://127.0.0.1:60007
+    script: locust_file.py
+
+reporting:
+- module: console
+- module: final-stats
+  summary: true
+  percentiles: true 
+  failed-labels: false
+  test-duration: true
+  dump-csv: ./btz_result/perf_result_csv.csv
+- module: junit-xml
+  data-source: pass-fail
+  filename: ./btz_result/junit-result.xml
+- module: blazemeter
+  report-name: Gatekeeper service test report
+  test: Gatekeeper service test
+  project: Guya LTD
