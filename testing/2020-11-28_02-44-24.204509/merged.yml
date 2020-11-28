@@ -1,0 +1,30 @@
+---
+execution:
+- concurrency: 100
+  executor: locust
+  iterations: 1
+  ramp-up: 10s
+  scenario: example
+modules:
+  blazemeter:
+    token: '********'
+reporting:
+- module: console
+- dump-csv: TaurusResult/perf_result_csv.csv
+  failed-labels: false
+  module: final-stats
+  percentiles: true
+  summary: true
+  test-duration: true
+- data-source: pass-fail
+  filename: TaurusResult/junit-result.xml
+  module: junit-xml
+- module: blazemeter
+  project: Taurus test project
+  report-name: Taurus test report
+  test: Taurus test
+scenarios:
+  example:
+    default-address: http://127.0.0.1
+    script: gatekeeper.py
+

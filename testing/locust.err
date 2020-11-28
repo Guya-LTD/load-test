@@ -1,0 +1,777 @@
+[DEPRECATED] The --hatch-rate parameter has been renamed --spawn-rate
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:45Z <Greenlet at 0x7fbf20dfcae0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf20dab79)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:45Z <Greenlet at 0x7fbf20dfcd00: run_user(<gatekeeper.QuickstartUser object at 0x7fbf20d9d37)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:45Z <Greenlet at 0x7fbf20d8f150: run_user(<gatekeeper.QuickstartUser object at 0x7fbf20d9dbb)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:45Z <Greenlet at 0x7fbf20d8f260: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2053f37)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:46Z <Greenlet at 0x7fbf20d8f370: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2053faf)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:46Z <Greenlet at 0x7fbf20d8f480: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2053fac)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:46Z <Greenlet at 0x7fbf20d8f590: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2054cd3)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:46Z <Greenlet at 0x7fbf20d8f6a0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2054c22)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:46Z <Greenlet at 0x7fbf20d8f370: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2053f22)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:46Z <Greenlet at 0x7fbf20d8f260: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2053f2e)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:46Z <Greenlet at 0x7fbf20d8f150: run_user(<gatekeeper.QuickstartUser object at 0x7fbf205585e)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:47Z <Greenlet at 0x7fbf20d8f7b0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204e310)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:48Z <Greenlet at 0x7fbf20d8f8c0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2053fd9)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20d8f370: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2054c04)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20d8f6a0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204e3dc)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20d8fae0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204f270)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20d8f9d0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204e9a3)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20d8fd00: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204fad0)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20d8fbf0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204e373)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20d8fe10: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2050588)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20515040: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2051255)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:49Z <Greenlet at 0x7fbf20515150: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2051922)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:50Z <Greenlet at 0x7fbf20515260: run_user(<gatekeeper.QuickstartUser object at 0x7fbf20519eb)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:51Z <Greenlet at 0x7fbf20515370: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204a3b8)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:52Z <Greenlet at 0x7fbf20515480: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204ad85)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:52Z <Greenlet at 0x7fbf20515590: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204b952)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:53Z <Greenlet at 0x7fbf205156a0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204c31f)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:54Z <Greenlet at 0x7fbf205157b0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf2054c94)> failed with MissingWaitTimeError
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 290, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 140, in run
+    self._taskset_instance.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 304, in run
+    self.wait()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 377, in wait
+    self._sleep(self.wait_time())
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/task.py", line 357, in wait_time
+    raise MissingWaitTimeError(
+locust.exception.MissingWaitTimeError: You must define a wait_time method on either the QuickstartUser or DefaultTaskSet class
+2020-11-27T21:56:55Z <Greenlet at 0x7fbf205158c0: run_user(<gatekeeper.QuickstartUser object at 0x7fbf204ce7f)> failed with MissingWaitTimeError
+
+ Name                                                          # reqs      # fails  |     Avg     Min     Max  Median  |   req/s failures/s
+--------------------------------------------------------------------------------------------------------------------------------------------
+ GET /hello                                                        29  29(100.00%)  |    1942       4    6851    2100  |    2.99    2.99
+ GET /world                                                        29  29(100.00%)  |       4       0      14       3  |    2.99    2.99
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Aggregated                                                        58  58(100.00%)  |     973       0    6851       5  |    5.99    5.99
+
+Response time percentiles (approximated)
+ Type     Name                                                              50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|------------------------------------------------------------|---------|------|------|------|------|------|------|------|------|------|------|------|
+ GET      /hello                                                           2100   2400   2600   3300   5100   5900   6900   6900   6900   6900   6900     29
+ GET      /world                                                              3      4      5      7     11     13     15     15     15     15     15     29
+--------|------------------------------------------------------------|---------|------|------|------|------|------|------|------|------|------|------|------|
+ None     Aggregated                                                          6    110   2100   2400   3300   5100   5900   6900   6900   6900   6900     58
+
+Error report
+ # occurrences      Error                                                                                               
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 29                 GET /hello: "HTTPError('404 Client Error: Not Found for url: http://127.0.0.1/hello')"              
+ 29                 GET /world: "HTTPError('404 Client Error: Not Found for url: http://127.0.0.1/world')"              
+--------------------------------------------------------------------------------------------------------------------------------------------
+

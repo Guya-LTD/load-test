@@ -1,0 +1,14 @@
+---
+execution:
+- concurrency: 100
+  executor: locust
+  hold-for: 5m
+  ramp-up: 1m
+  scenario: example
+included-configs:
+- ../blaze_meter/apikey.yml
+scenarios:
+  example:
+    default-address: http://127.0.0.1:60007
+    script: locust_file.py
+
