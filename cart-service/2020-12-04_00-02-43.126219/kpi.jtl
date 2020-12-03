@@ -1,0 +1,1154 @@
+allThreads,timeStamp,label,method,elapsed,bytes,responseCode,responseMessage,success,Latency
+1,1607029369148,/api/v1/sessions,POST,16,1062,200,OK,true,0
+1,1607029369176,/api/v1/carts/items,POST,28,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+2,1607029369286,/api/v1/sessions,POST,33,1062,200,OK,true,0
+2,1607029369338,/api/v1/carts,GET,22,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+3,1607029369396,/api/v1/sessions,POST,21,1062,200,OK,true,0
+4,1607029369533,/api/v1/sessions,POST,37,1062,200,OK,true,0
+4,1607029369549,/api/v1/carts,GET,39,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+4,1607029369558,/api/v1/carts/items,POST,25,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+4,1607029369602,/api/v1/carts,GET,20,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+5,1607029369631,/api/v1/sessions,POST,15,1062,200,OK,true,0
+5,1607029369652,/api/v1/carts/items,POST,20,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+6,1607029369750,/api/v1/sessions,POST,13,1062,200,OK,true,0
+6,1607029369774,/api/v1/carts/items,POST,24,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+6,1607029369819,/api/v1/carts/items,POST,24,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+7,1607029369873,/api/v1/sessions,POST,14,1062,200,OK,true,0
+7,1607029369898,/api/v1/carts/items,POST,25,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+7,1607029369941,/api/v1/carts/items,POST,31,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+7,1607029369968,/api/v1/carts/items,POST,22,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+8,1607029369992,/api/v1/sessions,POST,12,1062,200,OK,true,0
+8,1607029370015,/api/v1/carts/items,POST,23,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+8,1607029370061,/api/v1/carts,GET,23,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+8,1607029370070,/api/v1/carts,GET,22,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+9,1607029370112,/api/v1/sessions,POST,12,1062,200,OK,true,0
+9,1607029370214,/api/v1/carts,GET,45,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+9,1607029370215,/api/v1/carts,GET,45,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+10,1607029370233,/api/v1/carts/items,POST,29,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+10,1607029370237,/api/v1/sessions,POST,15,1062,200,OK,true,0
+10,1607029370242,/api/v1/carts/items,POST,34,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+10,1607029370287,/api/v1/carts,GET,19,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+10,1607029370323,/api/v1/carts,GET,21,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+11,1607029370352,/api/v1/carts/items,POST,20,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+11,1607029370357,/api/v1/sessions,POST,15,1062,200,OK,true,0
+11,1607029370382,/api/v1/carts,GET,25,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+11,1607029370427,/api/v1/carts,GET,28,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+11,1607029370437,/api/v1/carts,GET,26,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+12,1607029370475,/api/v1/sessions,POST,12,1062,200,OK,true,0
+12,1607029370496,/api/v1/carts/items,POST,20,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+12,1607029370549,/api/v1/carts,GET,38,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+12,1607029370552,/api/v1/carts/items,POST,29,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+13,1607029370596,/api/v1/sessions,POST,12,1062,200,OK,true,0
+13,1607029370617,/api/v1/carts/items,POST,21,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+13,1607029370670,/api/v1/carts/items,POST,51,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+13,1607029370680,/api/v1/carts,GET,46,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+13,1607029370688,/api/v1/carts/items,POST,67,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+13,1607029370702,/api/v1/carts,GET,38,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+14,1607029370718,/api/v1/sessions,POST,14,1062,200,OK,true,0
+14,1607029370732,/api/v1/carts/items,POST,28,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+14,1607029370745,/api/v1/carts,GET,27,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+14,1607029370816,/api/v1/carts/items,POST,34,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+15,1607029370842,/api/v1/sessions,POST,18,1062,200,OK,true,0
+15,1607029370859,/api/v1/carts/items,POST,43,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+15,1607029370885,/api/v1/carts,GET,55,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+15,1607029370889,/api/v1/carts,GET,53,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+15,1607029370914,/api/v1/carts/items,POST,72,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+15,1607029370921,/api/v1/carts/items,POST,52,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+15,1607029370922,/api/v1/carts/items,POST,80,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+16,1607029370975,/api/v1/sessions,POST,30,1062,200,OK,true,0
+16,1607029371026,/api/v1/carts/items,POST,50,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+16,1607029371030,/api/v1/carts/items,POST,56,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+16,1607029371031,/api/v1/carts,GET,40,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+17,1607029371076,/api/v1/carts,GET,23,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+17,1607029371082,/api/v1/sessions,POST,16,1062,200,OK,true,0
+17,1607029371102,/api/v1/carts/items,POST,21,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+17,1607029371137,/api/v1/carts/items,POST,23,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+18,1607029371196,/api/v1/carts/items,POST,22,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+18,1607029371201,/api/v1/sessions,POST,15,1062,200,OK,true,0
+18,1607029371223,/api/v1/carts,GET,21,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+18,1607029371252,/api/v1/carts/items,POST,22,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+18,1607029371280,/api/v1/carts,GET,20,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+19,1607029371309,/api/v1/carts,GET,25,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+19,1607029371318,/api/v1/carts/items,POST,22,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+19,1607029371323,/api/v1/sessions,POST,15,1062,200,OK,true,0
+19,1607029371345,/api/v1/carts/items,POST,22,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+19,1607029371386,/api/v1/carts,GET,21,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+19,1607029371403,/api/v1/carts,GET,21,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+20,1607029371443,/api/v1/sessions,POST,15,1062,200,OK,true,0
+20,1607029371447,/api/v1/carts,GET,25,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+20,1607029371465,/api/v1/carts,GET,21,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+20,1607029371545,/api/v1/carts,GET,61,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+21,1607029371550,/api/v1/carts/items,POST,59,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+21,1607029371550,/api/v1/carts/items,POST,69,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+21,1607029371561,/api/v1/sessions,POST,13,1062,200,OK,true,0
+21,1607029371582,/api/v1/carts,GET,66,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+21,1607029371583,/api/v1/carts,GET,47,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+21,1607029371615,/api/v1/carts,GET,53,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+21,1607029371625,/api/v1/carts/items,POST,45,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+21,1607029371629,/api/v1/carts/items,POST,29,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+21,1607029371659,/api/v1/carts/items,POST,42,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+21,1607029371661,/api/v1/carts/items,POST,31,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+22,1607029371680,/api/v1/carts/items,POST,44,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+22,1607029371681,/api/v1/carts,GET,43,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+22,1607029371681,/api/v1/sessions,POST,12,1062,200,OK,true,0
+22,1607029371722,/api/v1/carts,GET,23,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+23,1607029371803,/api/v1/sessions,POST,13,1062,200,OK,true,0
+23,1607029371828,/api/v1/carts/items,POST,20,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+23,1607029371852,/api/v1/carts/items,POST,20,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+23,1607029371879,/api/v1/carts,GET,24,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+24,1607029371927,/api/v1/carts,GET,47,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+24,1607029371931,/api/v1/sessions,POST,20,1062,200,OK,true,0
+24,1607029371936,/api/v1/carts/items,POST,51,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+24,1607029371940,/api/v1/carts,GET,57,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+24,1607029371955,/api/v1/carts,GET,30,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+24,1607029372004,/api/v1/carts,GET,25,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+24,1607029372014,/api/v1/carts,GET,26,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+24,1607029372027,/api/v1/carts/items,POST,25,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+25,1607029372048,/api/v1/sessions,POST,16,1062,200,OK,true,0
+25,1607029372093,/api/v1/carts,GET,54,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+25,1607029372101,/api/v1/carts/items,POST,54,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+25,1607029372109,/api/v1/carts/items,POST,45,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+25,1607029372115,/api/v1/carts,GET,36,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+25,1607029372126,/api/v1/carts/items,POST,34,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+25,1607029372144,/api/v1/carts/items,POST,24,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+26,1607029372156,/api/v1/carts,GET,23,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+26,1607029372165,/api/v1/sessions,POST,12,1062,200,OK,true,0
+26,1607029372188,/api/v1/carts,GET,23,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+26,1607029372229,/api/v1/carts/items,POST,40,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+27,1607029372276,/api/v1/carts,GET,27,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+27,1607029372354,/api/v1/sessions,POST,80,1062,200,OK,true,0
+28,1607029372422,/api/v1/sessions,POST,27,1062,200,OK,true,0
+28,1607029372436,/api/v1/carts,GET,158,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+28,1607029372437,/api/v1/carts/items,POST,169,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+28,1607029372494,/api/v1/carts,GET,208,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+29,1607029372528,/api/v1/sessions,POST,13,1062,200,OK,true,0
+29,1607029372556,/api/v1/carts,GET,241,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+29,1607029372587,/api/v1/carts,GET,193,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+29,1607029372594,/api/v1/carts,GET,292,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+29,1607029372603,/api/v1/carts/items,POST,248,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+29,1607029372618,/api/v1/carts/items,POST,186,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+29,1607029372618,/api/v1/carts,GET,248,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+29,1607029372620,/api/v1/carts,GET,254,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+29,1607029372623,/api/v1/carts,GET,269,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+29,1607029372627,/api/v1/carts,GET,169,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+30,1607029372644,/api/v1/carts/items,POST,280,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+30,1607029372649,/api/v1/sessions,POST,13,1062,200,OK,true,0
+30,1607029372651,/api/v1/carts/items,POST,112,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+30,1607029372652,/api/v1/carts/items,POST,237,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+30,1607029372665,/api/v1/carts,GET,138,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+30,1607029372668,/api/v1/carts/items,POST,116,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+30,1607029372670,/api/v1/carts,GET,106,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+30,1607029372678,/api/v1/carts/items,POST,69,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+30,1607029372698,/api/v1/carts,GET,48,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+30,1607029372698,/api/v1/carts/items,POST,48,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+30,1607029372742,/api/v1/carts,GET,27,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+31,1607029372767,/api/v1/carts,GET,31,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+31,1607029372772,/api/v1/sessions,POST,16,1062,200,OK,true,0
+31,1607029372793,/api/v1/carts/items,POST,37,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+31,1607029372798,/api/v1/carts,GET,27,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+32,1607029372890,/api/v1/carts,GET,39,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+32,1607029372896,/api/v1/sessions,POST,19,1062,200,OK,true,0
+32,1607029372978,/api/v1/carts,GET,124,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+33,1607029373014,/api/v1/sessions,POST,16,1062,200,OK,true,0
+33,1607029373017,/api/v1/carts/items,POST,143,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+33,1607029373047,/api/v1/carts/items,POST,170,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+33,1607029373055,/api/v1/carts,GET,190,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+33,1607029373075,/api/v1/carts/items,POST,194,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+33,1607029373092,/api/v1/carts,GET,188,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+33,1607029373095,/api/v1/carts,GET,190,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+33,1607029373118,/api/v1/carts/items,POST,182,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+34,1607029373126,/api/v1/carts,GET,198,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+34,1607029373136,/api/v1/sessions,POST,17,1062,200,OK,true,0
+34,1607029373179,/api/v1/carts/items,POST,243,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+34,1607029373180,/api/v1/carts/items,POST,210,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+34,1607029373183,/api/v1/carts/items,POST,194,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+34,1607029373203,/api/v1/carts/items,POST,207,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+34,1607029373210,/api/v1/carts/items,POST,230,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+34,1607029373231,/api/v1/carts,GET,203,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+34,1607029373235,/api/v1/carts,GET,176,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+34,1607029373236,/api/v1/carts,GET,208,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+35,1607029373262,/api/v1/carts,GET,204,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+35,1607029373267,/api/v1/sessions,POST,28,1062,200,OK,true,0
+35,1607029373281,/api/v1/carts/items,POST,212,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+35,1607029373282,/api/v1/carts,GET,146,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+35,1607029373291,/api/v1/carts,GET,175,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+35,1607029373300,/api/v1/carts,GET,142,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+35,1607029373315,/api/v1/carts/items,POST,158,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+36,1607029373361,/api/v1/carts/items,POST,168,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+36,1607029373371,/api/v1/carts,GET,173,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+36,1607029373376,/api/v1/sessions,POST,16,1062,200,OK,true,0
+36,1607029373378,/api/v1/carts/items,POST,111,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+36,1607029373382,/api/v1/carts/items,POST,139,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+36,1607029373400,/api/v1/carts/items,POST,134,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+36,1607029373402,/api/v1/carts,GET,123,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+36,1607029373430,/api/v1/carts,GET,116,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+36,1607029373436,/api/v1/carts,GET,134,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+36,1607029373444,/api/v1/carts,GET,61,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+37,1607029373482,/api/v1/carts,GET,89,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+37,1607029373484,/api/v1/carts,GET,81,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+37,1607029373506,/api/v1/sessions,POST,24,1062,200,OK,true,0
+37,1607029373544,/api/v1/carts,GET,122,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+37,1607029373552,/api/v1/carts/items,POST,97,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+37,1607029373572,/api/v1/carts/items,POST,111,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+38,1607029373621,/api/v1/carts,GET,134,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+38,1607029373625,/api/v1/sessions,POST,23,1062,200,OK,true,0
+38,1607029373628,/api/v1/carts,GET,136,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+38,1607029373652,/api/v1/carts/items,POST,148,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+38,1607029373672,/api/v1/carts,GET,178,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+38,1607029373686,/api/v1/carts/items,POST,189,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+38,1607029373692,/api/v1/carts,GET,184,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+39,1607029373735,/api/v1/carts/items,POST,223,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+39,1607029373743,/api/v1/sessions,POST,20,1062,200,OK,true,0
+39,1607029373765,/api/v1/carts/items,POST,211,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+39,1607029373810,/api/v1/carts/items,POST,252,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+39,1607029373821,/api/v1/carts/items,POST,195,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+39,1607029373828,/api/v1/carts/items,POST,255,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+39,1607029373831,/api/v1/carts/items,POST,250,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+40,1607029373847,/api/v1/carts/items,POST,255,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+40,1607029373853,/api/v1/carts/items,POST,241,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+40,1607029373856,/api/v1/carts,GET,260,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+40,1607029373867,/api/v1/sessions,POST,23,1062,200,OK,true,0
+41,1607029373980,/api/v1/sessions,POST,16,1062,200,OK,true,0
+41,1607029374050,/api/v1/carts/items,POST,337,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+41,1607029374055,/api/v1/carts/items,POST,379,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+41,1607029374082,/api/v1/carts/items,POST,339,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+42,1607029374112,/api/v1/sessions,POST,27,1062,200,OK,true,0
+42,1607029374113,/api/v1/carts/items,POST,388,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+42,1607029374137,/api/v1/carts,GET,368,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+42,1607029374147,/api/v1/carts/items,POST,372,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+43,1607029374212,/api/v1/carts,GET,345,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+43,1607029374216,/api/v1/carts,GET,452,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+43,1607029374223,/api/v1/sessions,POST,17,1062,200,OK,true,0
+43,1607029374244,/api/v1/carts/items,POST,428,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+43,1607029374255,/api/v1/carts/items,POST,446,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+43,1607029374260,/api/v1/carts/items,POST,448,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+43,1607029374272,/api/v1/carts/items,POST,418,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+43,1607029374303,/api/v1/carts,GET,421,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+43,1607029374315,/api/v1/carts/items,POST,411,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+43,1607029374317,/api/v1/carts,GET,421,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+43,1607029374318,/api/v1/carts/items,POST,363,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+44,1607029374340,/api/v1/sessions,POST,14,1062,200,OK,true,0
+44,1607029374377,/api/v1/carts,GET,441,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+44,1607029374422,/api/v1/carts/items,POST,539,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+45,1607029374456,/api/v1/carts/items,POST,349,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+45,1607029374463,/api/v1/sessions,POST,16,1062,200,OK,true,0
+45,1607029374477,/api/v1/carts/items,POST,365,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+45,1607029374494,/api/v1/carts,GET,409,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+45,1607029374499,/api/v1/carts/items,POST,534,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+45,1607029374502,/api/v1/carts/items,POST,528,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+45,1607029374505,/api/v1/carts,GET,414,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+45,1607029374514,/api/v1/carts,GET,533,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+45,1607029374521,/api/v1/carts/items,POST,544,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+45,1607029374534,/api/v1/carts,GET,504,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+45,1607029374537,/api/v1/carts,GET,434,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+45,1607029374563,/api/v1/carts/items,POST,384,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029374571,/api/v1/carts,GET,401,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+46,1607029374582,/api/v1/carts/items,POST,354,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029374585,/api/v1/carts/items,POST,369,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029374587,/api/v1/sessions,POST,19,1062,200,OK,true,0
+46,1607029374588,/api/v1/carts,GET,365,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+46,1607029374591,/api/v1/carts/items,POST,341,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029374597,/api/v1/carts,GET,411,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+46,1607029374615,/api/v1/carts/items,POST,428,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029374623,/api/v1/carts/items,POST,394,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029374640,/api/v1/carts/items,POST,270,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029374657,/api/v1/carts/items,POST,316,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029374658,/api/v1/carts,GET,257,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+46,1607029374676,/api/v1/carts,GET,300,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+46,1607029374682,/api/v1/carts/items,POST,325,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+47,1607029374705,/api/v1/sessions,POST,17,1062,200,OK,true,0
+47,1607029374718,/api/v1/carts,GET,264,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+47,1607029374725,/api/v1/carts,GET,250,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+47,1607029374731,/api/v1/carts,GET,275,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+47,1607029374745,/api/v1/carts/items,POST,282,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+47,1607029374749,/api/v1/carts/items,POST,218,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+47,1607029374758,/api/v1/carts,GET,301,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+48,1607029374855,/api/v1/sessions,POST,46,1062,200,OK,true,0
+48,1607029374881,/api/v1/carts,GET,237,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+48,1607029374889,/api/v1/carts/items,POST,264,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+48,1607029374893,/api/v1/carts/items,POST,248,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+48,1607029374907,/api/v1/carts/items,POST,260,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+49,1607029374963,/api/v1/sessions,POST,32,1062,200,OK,true,0
+49,1607029374970,/api/v1/carts,GET,274,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+49,1607029374972,/api/v1/carts,GET,253,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+49,1607029374978,/api/v1/carts/items,POST,301,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+49,1607029375007,/api/v1/carts/items,POST,322,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+49,1607029375016,/api/v1/carts,GET,265,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+50,1607029375066,/api/v1/carts,GET,293,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+50,1607029375070,/api/v1/sessions,POST,20,1062,200,OK,true,0
+50,1607029375083,/api/v1/carts,GET,339,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+50,1607029375085,/api/v1/carts,GET,349,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+50,1607029375122,/api/v1/carts,GET,359,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+50,1607029375127,/api/v1/carts/items,POST,383,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+51,1607029375184,/api/v1/sessions,POST,12,1062,200,OK,true,0
+51,1607029375202,/api/v1/carts/items,POST,405,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+51,1607029375208,/api/v1/carts,GET,440,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+51,1607029375245,/api/v1/carts/items,POST,426,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+51,1607029375251,/api/v1/carts/items,POST,340,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+51,1607029375264,/api/v1/carts,GET,462,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+51,1607029375268,/api/v1/carts,GET,482,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+51,1607029375274,/api/v1/carts/items,POST,447,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+52,1607029375307,/api/v1/carts,GET,324,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375307,/api/v1/sessions,POST,15,1062,200,OK,true,0
+52,1607029375327,/api/v1/carts/items,POST,392,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+52,1607029375346,/api/v1/carts/items,POST,431,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+52,1607029375350,/api/v1/carts,GET,342,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375352,/api/v1/carts,GET,497,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375358,/api/v1/carts,GET,341,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375361,/api/v1/carts,GET,449,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375373,/api/v1/carts,GET,346,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375378,/api/v1/carts/items,POST,522,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+52,1607029375381,/api/v1/carts/items,POST,329,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+52,1607029375381,/api/v1/carts/items,POST,329,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+52,1607029375390,/api/v1/carts,GET,331,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375391,/api/v1/carts,GET,360,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375391,/api/v1/carts,GET,294,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+52,1607029375395,/api/v1/carts/items,POST,325,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+52,1607029375398,/api/v1/carts,GET,345,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+53,1607029375416,/api/v1/carts/items,POST,290,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+53,1607029375422,/api/v1/carts/items,POST,307,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+53,1607029375427,/api/v1/carts/items,POST,313,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+53,1607029375431,/api/v1/sessions,POST,19,1062,200,OK,true,0
+53,1607029375503,/api/v1/carts,GET,265,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+54,1607029375544,/api/v1/carts,GET,250,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+54,1607029375546,/api/v1/carts,GET,275,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+54,1607029375549,/api/v1/carts,GET,269,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+54,1607029375550,/api/v1/carts/items,POST,329,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+54,1607029375556,/api/v1/sessions,POST,23,1062,200,OK,true,0
+54,1607029375560,/api/v1/carts,GET,231,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+54,1607029375602,/api/v1/carts/items,POST,300,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+54,1607029375605,/api/v1/carts,GET,297,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+54,1607029375607,/api/v1/carts,GET,279,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+55,1607029375662,/api/v1/carts/items,POST,221,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+55,1607029375668,/api/v1/carts,GET,275,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+55,1607029375671,/api/v1/sessions,POST,17,1062,200,OK,true,0
+55,1607029375682,/api/v1/carts/items,POST,284,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+55,1607029375723,/api/v1/carts,GET,292,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+55,1607029375724,/api/v1/carts/items,POST,298,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+55,1607029375760,/api/v1/carts,GET,274,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+56,1607029375797,/api/v1/carts,GET,322,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+56,1607029375798,/api/v1/sessions,POST,23,1062,200,OK,true,0
+56,1607029375805,/api/v1/carts/items,POST,323,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+56,1607029375835,/api/v1/carts,GET,342,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+56,1607029375840,/api/v1/carts,GET,322,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+56,1607029375858,/api/v1/carts/items,POST,321,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+56,1607029375862,/api/v1/carts/items,POST,344,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+56,1607029375874,/api/v1/carts,GET,318,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+57,1607029375910,/api/v1/carts/items,POST,287,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+57,1607029375914,/api/v1/sessions,POST,20,1062,200,OK,true,0
+57,1607029375919,/api/v1/carts,GET,352,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+57,1607029375928,/api/v1/carts/items,POST,339,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+57,1607029375972,/api/v1/carts,GET,411,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+57,1607029375987,/api/v1/carts/items,POST,426,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+57,1607029375991,/api/v1/carts/items,POST,320,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+58,1607029376026,/api/v1/carts,GET,360,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+58,1607029376038,/api/v1/sessions,POST,22,1062,200,OK,true,0
+58,1607029376055,/api/v1/carts,GET,407,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+58,1607029376117,/api/v1/carts/items,POST,445,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+59,1607029376151,/api/v1/sessions,POST,15,1062,200,OK,true,0
+59,1607029376177,/api/v1/carts/items,POST,487,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+59,1607029376181,/api/v1/carts/items,POST,492,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+59,1607029376203,/api/v1/carts,GET,512,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+59,1607029376244,/api/v1/carts,GET,539,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+60,1607029376270,/api/v1/carts/items,POST,521,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+60,1607029376273,/api/v1/sessions,POST,17,1062,200,OK,true,0
+60,1607029376278,/api/v1/carts/items,POST,580,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+60,1607029376281,/api/v1/carts,GET,562,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+60,1607029376331,/api/v1/carts,GET,608,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+60,1607029376366,/api/v1/carts,GET,620,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+61,1607029376383,/api/v1/carts,GET,611,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+61,1607029376395,/api/v1/carts,GET,598,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+61,1607029376409,/api/v1/carts,GET,588,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+61,1607029376415,/api/v1/sessions,POST,38,1062,200,OK,true,0
+61,1607029376416,/api/v1/carts/items,POST,502,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+61,1607029376419,/api/v1/carts/items,POST,573,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+61,1607029376421,/api/v1/carts/items,POST,665,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+61,1607029376425,/api/v1/carts/items,POST,616,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+61,1607029376446,/api/v1/carts/items,POST,681,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+61,1607029376460,/api/v1/carts/items,POST,628,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+61,1607029376476,/api/v1/carts,GET,688,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+61,1607029376495,/api/v1/carts/items,POST,635,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+62,1607029376499,/api/v1/carts/items,POST,593,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+62,1607029376510,/api/v1/carts,GET,553,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+62,1607029376516,/api/v1/sessions,POST,18,1062,200,OK,true,0
+62,1607029376529,/api/v1/carts/items,POST,617,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+62,1607029376548,/api/v1/carts/items,POST,702,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+62,1607029376549,/api/v1/carts/items,POST,624,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+62,1607029376556,/api/v1/carts/items,POST,623,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+62,1607029376572,/api/v1/carts,GET,579,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+62,1607029376581,/api/v1/carts/items,POST,627,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+62,1607029376584,/api/v1/carts,GET,463,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+62,1607029376588,/api/v1/carts,GET,620,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+62,1607029376591,/api/v1/carts/items,POST,603,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+62,1607029376597,/api/v1/carts,GET,607,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+63,1607029376636,/api/v1/sessions,POST,17,1062,200,OK,true,0
+63,1607029376639,/api/v1/carts,GET,554,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+63,1607029376648,/api/v1/carts/items,POST,520,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+63,1607029376660,/api/v1/carts/items,POST,647,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+63,1607029376679,/api/v1/carts/items,POST,595,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+63,1607029376680,/api/v1/carts/items,POST,604,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+63,1607029376688,/api/v1/carts/items,POST,651,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+63,1607029376716,/api/v1/carts/items,POST,566,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+64,1607029376762,/api/v1/sessions,POST,23,1062,200,OK,true,0
+64,1607029376774,/api/v1/carts/items,POST,524,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+64,1607029376778,/api/v1/carts/items,POST,504,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+64,1607029376779,/api/v1/carts/items,POST,535,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+64,1607029376802,/api/v1/carts,GET,476,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+64,1607029376825,/api/v1/carts/items,POST,594,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+64,1607029376838,/api/v1/carts/items,POST,524,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+64,1607029376842,/api/v1/carts,GET,582,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+64,1607029376851,/api/v1/carts,GET,595,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+65,1607029376881,/api/v1/sessions,POST,21,1062,200,OK,true,0
+65,1607029376883,/api/v1/carts/items,POST,535,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+65,1607029376902,/api/v1/carts/items,POST,614,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+65,1607029376919,/api/v1/carts/items,POST,479,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+65,1607029376929,/api/v1/carts,GET,570,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+65,1607029376931,/api/v1/carts/items,POST,421,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+65,1607029376945,/api/v1/carts,GET,577,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+65,1607029376956,/api/v1/carts,GET,616,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+65,1607029376956,/api/v1/carts/items,POST,588,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+65,1607029376957,/api/v1/carts,GET,440,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+65,1607029376977,/api/v1/carts,GET,394,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+66,1607029376994,/api/v1/carts,GET,590,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+66,1607029376999,/api/v1/sessions,POST,19,1062,200,OK,true,0
+66,1607029377008,/api/v1/carts/items,POST,620,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+66,1607029377012,/api/v1/carts,GET,627,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+66,1607029377021,/api/v1/carts,GET,682,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+66,1607029377082,/api/v1/carts,GET,430,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+66,1607029377085,/api/v1/carts/items,POST,483,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+66,1607029377089,/api/v1/carts,GET,431,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+67,1607029377143,/api/v1/sessions,POST,41,1062,200,OK,true,0
+67,1607029377179,/api/v1/carts,GET,630,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+68,1607029377238,/api/v1/carts,GET,524,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+68,1607029377241,/api/v1/sessions,POST,18,1062,200,OK,true,0
+68,1607029377251,/api/v1/carts/items,POST,555,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+68,1607029377252,/api/v1/carts/items,POST,548,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+68,1607029377307,/api/v1/carts,GET,573,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+68,1607029377325,/api/v1/carts,GET,591,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+68,1607029377332,/api/v1/carts,GET,562,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+69,1607029377356,/api/v1/carts/items,POST,559,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+69,1607029377364,/api/v1/sessions,POST,21,1062,200,OK,true,0
+69,1607029377366,/api/v1/carts/items,POST,652,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+69,1607029377378,/api/v1/carts/items,POST,603,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+69,1607029377461,/api/v1/carts/items,POST,607,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+70,1607029377465,/api/v1/carts/items,POST,618,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+70,1607029377477,/api/v1/sessions,POST,14,1062,200,OK,true,0
+70,1607029377513,/api/v1/carts,GET,750,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+70,1607029377516,/api/v1/carts,GET,557,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+70,1607029377524,/api/v1/carts,GET,589,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+70,1607029377525,/api/v1/carts,GET,737,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+70,1607029377536,/api/v1/carts,GET,619,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+70,1607029377541,/api/v1/carts/items,POST,677,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+70,1607029377574,/api/v1/carts/items,POST,691,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+71,1607029377596,/api/v1/sessions,POST,12,1062,200,OK,true,0
+71,1607029377599,/api/v1/carts,GET,639,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+71,1607029377605,/api/v1/carts/items,POST,654,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+71,1607029377613,/api/v1/carts/items,POST,738,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+71,1607029377644,/api/v1/carts,GET,767,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+71,1607029377646,/api/v1/carts,GET,755,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+71,1607029377660,/api/v1/carts,GET,608,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+72,1607029377709,/api/v1/carts,GET,748,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+72,1607029377722,/api/v1/carts/items,POST,678,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+72,1607029377723,/api/v1/sessions,POST,18,1062,200,OK,true,0
+72,1607029377734,/api/v1/carts,GET,845,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+72,1607029377773,/api/v1/carts/items,POST,800,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+72,1607029377803,/api/v1/carts/items,POST,728,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+72,1607029377814,/api/v1/carts,GET,826,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+73,1607029377836,/api/v1/carts/items,POST,775,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+73,1607029377842,/api/v1/sessions,POST,16,1062,200,OK,true,0
+73,1607029377850,/api/v1/carts/items,POST,763,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+73,1607029377870,/api/v1/carts/items,POST,726,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+73,1607029377873,/api/v1/carts/items,POST,715,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029377999,/api/v1/carts,GET,650,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029377999,/api/v1/carts/items,POST,606,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378000,/api/v1/carts,GET,759,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378000,/api/v1/carts/items,POST,598,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378000,/api/v1/carts/items,POST,862,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378001,/api/v1/carts,GET,633,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378001,/api/v1/carts/items,POST,675,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378001,/api/v1/carts/items,POST,772,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378001,/api/v1/carts/items,POST,725,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378001,/api/v1/carts/items,POST,812,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378001,/api/v1/carts/items,POST,736,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378001,/api/v1/carts/items,POST,875,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378002,/api/v1/carts/items,POST,650,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378002,/api/v1/carts/items,POST,948,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378002,/api/v1/carts/items,POST,679,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378002,/api/v1/carts/items,POST,842,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378002,/api/v1/carts,GET,820,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378002,/api/v1/carts,GET,822,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378002,/api/v1/carts,GET,1034,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378007,/api/v1/carts,GET,750,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378012,/api/v1/carts/items,POST,570,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378030,/api/v1/carts,GET,756,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378049,/api/v1/carts/items,POST,750,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378077,/api/v1/carts/items,POST,696,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378085,/api/v1/carts/items,POST,538,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+74,1607029378090,/api/v1/carts,GET,662,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378100,/api/v1/carts,GET,484,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+74,1607029378104,/api/v1/carts,GET,508,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+75,1607029378111,/api/v1/carts,GET,657,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+75,1607029378112,/api/v1/carts/items,POST,540,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+75,1607029378119,/api/v1/carts/items,POST,641,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+76,1607029378270,/api/v1/sessions,POST,163,1062,200,OK,true,0
+243,1607029420608,/api/v1/carts,GET,42956,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+244,1607029420745,/api/v1/carts/items,POST,43114,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+244,1607029420755,/api/v1/carts/items,POST,43046,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+244,1607029420759,/api/v1/carts/items,POST,43191,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+244,1607029420763,/api/v1/carts,GET,43045,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+244,1607029420763,/api/v1/carts/items,POST,43395,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+244,1607029420764,/api/v1/carts,GET,43200,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+244,1607029420768,/api/v1/sessions,POST,42540,1062,200,OK,true,0
+244,1607029420769,/api/v1/carts/items,POST,43205,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+244,1607029420770,/api/v1/carts/items,POST,43125,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+245,1607029420790,/api/v1/sessions,POST,42792,1062,200,OK,true,0
+245,1607029420845,/api/v1/carts,GET,42861,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+245,1607029420849,/api/v1/carts,GET,42994,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+245,1607029420855,/api/v1/carts,GET,42991,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+245,1607029420860,/api/v1/carts,GET,42876,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+245,1607029420867,/api/v1/carts,GET,43032,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+245,1607029420876,/api/v1/carts/items,POST,43034,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+245,1607029420877,/api/v1/carts/items,POST,43050,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+245,1607029420883,/api/v1/carts/items,POST,43080,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+245,1607029420891,/api/v1/carts,GET,43050,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+246,1607029420897,/api/v1/carts,GET,43123,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+246,1607029420900,/api/v1/carts/items,POST,43078,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+246,1607029420904,/api/v1/carts/items,POST,43243,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+246,1607029420904,/api/v1/carts,GET,43182,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+246,1607029420905,/api/v1/carts,GET,43158,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+246,1607029420943,/api/v1/carts,GET,42957,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+246,1607029420949,/api/v1/carts/items,POST,42964,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+247,1607029421089,/api/v1/sessions,POST,15396,1062,200,OK,true,0
+247,1607029421101,/api/v1/sessions,POST,17224,1062,200,OK,true,0
+248,1607029421219,/api/v1/carts/items,POST,43060,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+250,1607029421434,/api/v1/sessions,POST,17315,1062,200,OK,true,0
+250,1607029421527,/api/v1/sessions,POST,17286,1062,200,OK,true,0
+251,1607029421555,/api/v1/sessions,POST,15620,1062,200,OK,true,0
+251,1607029421598,/api/v1/sessions,POST,15542,1062,200,OK,true,0
+251,1607029421632,/api/v1/sessions,POST,16907,1062,200,OK,true,0
+251,1607029421633,/api/v1/sessions,POST,21059,1062,200,OK,true,0
+252,1607029421659,/api/v1/sessions,POST,14275,1062,200,OK,true,0
+252,1607029421660,/api/v1/sessions,POST,15846,1062,200,OK,true,0
+252,1607029421668,/api/v1/sessions,POST,21059,1062,200,OK,true,0
+252,1607029421673,/api/v1/sessions,POST,15496,1062,200,OK,true,0
+252,1607029421676,/api/v1/sessions,POST,17677,1062,200,OK,true,0
+252,1607029421676,/api/v1/sessions,POST,17315,1062,200,OK,true,0
+252,1607029421695,/api/v1/sessions,POST,22469,1062,200,OK,true,0
+252,1607029421699,/api/v1/sessions,POST,20970,1062,200,OK,true,0
+252,1607029421703,/api/v1/sessions,POST,11414,1062,200,OK,true,0
+252,1607029421713,/api/v1/sessions,POST,16867,1062,200,OK,true,0
+253,1607029421773,/api/v1/sessions,POST,15475,1062,200,OK,true,0
+253,1607029421779,/api/v1/sessions,POST,15360,1062,200,OK,true,0
+253,1607029421788,/api/v1/sessions,POST,20940,1062,200,OK,true,0
+254,1607029421923,/api/v1/sessions,POST,16956,1062,200,OK,true,0
+254,1607029421925,/api/v1/sessions,POST,14421,1062,200,OK,true,0
+254,1607029421930,/api/v1/sessions,POST,20960,1062,200,OK,true,0
+256,1607029422182,/api/v1/sessions,POST,15523,1062,200,OK,true,0
+256,1607029422183,/api/v1/sessions,POST,17579,1062,200,OK,true,0
+256,1607029422187,/api/v1/sessions,POST,14440,1062,200,OK,true,0
+256,1607029422188,/api/v1/sessions,POST,20976,1062,200,OK,true,0
+256,1607029422214,/api/v1/sessions,POST,14589,1062,200,OK,true,0
+256,1607029422231,/api/v1/sessions,POST,15452,1062,200,OK,true,0
+256,1607029422247,/api/v1/sessions,POST,16676,1062,200,OK,true,0
+256,1607029422255,/api/v1/sessions,POST,20921,1062,200,OK,true,0
+256,1607029422270,/api/v1/sessions,POST,14402,1062,200,OK,true,0
+257,1607029422283,/api/v1/sessions,POST,17801,1062,200,OK,true,0
+257,1607029422286,/api/v1/sessions,POST,15747,1062,200,OK,true,0
+257,1607029422298,/api/v1/sessions,POST,15398,1062,200,OK,true,0
+257,1607029422303,/api/v1/sessions,POST,21212,1062,200,OK,true,0
+257,1607029422305,/api/v1/sessions,POST,20850,1062,200,OK,true,0
+257,1607029422330,/api/v1/sessions,POST,17242,1062,200,OK,true,0
+257,1607029422332,/api/v1/sessions,POST,15310,1062,200,OK,true,0
+257,1607029422339,/api/v1/sessions,POST,14350,1062,200,OK,true,0
+258,1607029422403,/api/v1/sessions,POST,14293,1062,200,OK,true,0
+258,1607029422405,/api/v1/sessions,POST,20829,1062,200,OK,true,0
+258,1607029422435,/api/v1/sessions,POST,15172,1062,200,OK,true,0
+258,1607029422445,/api/v1/sessions,POST,20626,1062,200,OK,true,0
+258,1607029422447,/api/v1/sessions,POST,17117,1062,200,OK,true,0
+258,1607029422451,/api/v1/sessions,POST,14099,1062,200,OK,true,0
+258,1607029422460,/api/v1/sessions,POST,20521,1062,200,OK,true,0
+258,1607029422476,/api/v1/sessions,POST,10493,1062,200,OK,true,0
+258,1607029422477,/api/v1/sessions,POST,17026,1062,200,OK,true,0
+258,1607029422482,/api/v1/sessions,POST,14008,1062,200,OK,true,0
+258,1607029422483,/api/v1/sessions,POST,15341,1062,200,OK,true,0
+258,1607029422496,/api/v1/sessions,POST,17288,1062,200,OK,true,0
+258,1607029422498,/api/v1/sessions,POST,20437,1062,200,OK,true,0
+258,1607029422509,/api/v1/sessions,POST,13914,1062,200,OK,true,0
+258,1607029422513,/api/v1/sessions,POST,14282,1062,200,OK,true,0
+259,1607029422529,/api/v1/sessions,POST,13813,1062,200,OK,true,0
+259,1607029422530,/api/v1/sessions,POST,20833,1062,200,OK,true,0
+259,1607029422537,/api/v1/sessions,POST,20355,1062,200,OK,true,0
+259,1607029422540,/api/v1/sessions,POST,12614,1062,200,OK,true,0
+259,1607029422541,/api/v1/sessions,POST,13100,1062,200,OK,true,0
+259,1607029422557,/api/v1/sessions,POST,20254,1062,200,OK,true,0
+259,1607029422563,/api/v1/sessions,POST,12758,1062,200,OK,true,0
+259,1607029422571,/api/v1/sessions,POST,13735,1062,200,OK,true,0
+259,1607029422573,/api/v1/sessions,POST,13011,1062,200,OK,true,0
+259,1607029422578,/api/v1/sessions,POST,19548,1062,200,OK,true,0
+259,1607029422590,/api/v1/sessions,POST,12543,1062,200,OK,true,0
+259,1607029422614,/api/v1/sessions,POST,12930,1062,200,OK,true,0
+259,1607029422619,/api/v1/sessions,POST,9669,1062,200,OK,true,0
+259,1607029422636,/api/v1/sessions,POST,13437,1062,200,OK,true,0
+260,1607029422658,/api/v1/sessions,POST,13579,1062,200,OK,true,0
+260,1607029422662,/api/v1/sessions,POST,13341,1062,200,OK,true,0
+260,1607029422665,/api/v1/sessions,POST,11166,1062,200,OK,true,0
+260,1607029422669,/api/v1/sessions,POST,12501,1062,200,OK,true,0
+260,1607029422671,/api/v1/sessions,POST,19520,1062,200,OK,true,0
+260,1607029422673,/api/v1/sessions,POST,20250,1062,200,OK,true,0
+260,1607029422676,/api/v1/sessions,POST,11056,1062,200,OK,true,0
+260,1607029422705,/api/v1/sessions,POST,10964,1062,200,OK,true,0
+260,1607029422721,/api/v1/sessions,POST,12311,1062,200,OK,true,0
+260,1607029422726,/api/v1/sessions,POST,12196,1062,200,OK,true,0
+260,1607029422734,/api/v1/sessions,POST,19462,1062,200,OK,true,0
+260,1607029422736,/api/v1/sessions,POST,20191,1062,200,OK,true,0
+260,1607029422741,/api/v1/sessions,POST,20075,1062,200,OK,true,0
+260,1607029422754,/api/v1/sessions,POST,19362,1062,200,OK,true,0
+260,1607029422759,/api/v1/sessions,POST,10897,1062,200,OK,true,0
+261,1607029422769,/api/v1/sessions,POST,10543,1062,200,OK,true,0
+261,1607029422770,/api/v1/sessions,POST,19862,1062,200,OK,true,0
+261,1607029422805,/api/v1/sessions,POST,19170,1062,200,OK,true,0
+261,1607029422816,/api/v1/sessions,POST,12043,1062,200,OK,true,0
+261,1607029422817,/api/v1/sessions,POST,9746,1062,200,OK,true,0
+261,1607029422831,/api/v1/sessions,POST,11938,1062,200,OK,true,0
+261,1607029422834,/api/v1/sessions,POST,19321,1062,200,OK,true,0
+261,1607029422849,/api/v1/sessions,POST,12197,1062,200,OK,true,0
+261,1607029422857,/api/v1/sessions,POST,9664,1062,200,OK,true,0
+261,1607029422859,/api/v1/sessions,POST,13901,1062,200,OK,true,0
+261,1607029422860,/api/v1/sessions,POST,20073,1062,200,OK,true,0
+261,1607029422866,/api/v1/sessions,POST,11851,1062,200,OK,true,0
+261,1607029422879,/api/v1/sessions,POST,5450,1062,200,OK,true,0
+262,1607029422889,/api/v1/sessions,POST,10785,1062,200,OK,true,0
+262,1607029422922,/api/v1/sessions,POST,9608,1062,200,OK,true,0
+262,1607029422926,/api/v1/sessions,POST,11669,1062,200,OK,true,0
+262,1607029422929,/api/v1/sessions,POST,11552,1062,200,OK,true,0
+262,1607029422930,/api/v1/sessions,POST,11794,1062,200,OK,true,0
+262,1607029422933,/api/v1/sessions,POST,9498,1062,200,OK,true,0
+262,1607029422953,/api/v1/sessions,POST,9396,1062,200,OK,true,0
+262,1607029422963,/api/v1/sessions,POST,9285,1062,200,OK,true,0
+262,1607029422972,/api/v1/sessions,POST,10384,1062,200,OK,true,0
+262,1607029422978,/api/v1/sessions,POST,4339,1062,200,OK,true,0
+262,1607029422993,/api/v1/sessions,POST,1825,1062,200,OK,true,0
+263,1607029423008,/api/v1/sessions,POST,7394,1062,200,OK,true,0
+263,1607029423008,/api/v1/sessions,POST,9210,1062,200,OK,true,0
+263,1607029423015,/api/v1/sessions,POST,1726,1062,200,OK,true,0
+263,1607029423018,/api/v1/sessions,POST,1368,1062,200,OK,true,0
+263,1607029423021,/api/v1/sessions,POST,1611,1062,200,OK,true,0
+263,1607029423036,/api/v1/sessions,POST,1265,1062,200,OK,true,0
+263,1607029423037,/api/v1/sessions,POST,1507,1062,200,OK,true,0
+263,1607029423046,/api/v1/sessions,POST,1154,1062,200,OK,true,0
+263,1607029423049,/api/v1/sessions,POST,1007,1062,200,OK,true,0
+263,1607029423072,/api/v1/sessions,POST,2423,1062,200,OK,true,0
+263,1607029423073,/api/v1/sessions,POST,8185,1062,200,OK,true,0
+263,1607029423086,/api/v1/sessions,POST,4931,1062,200,OK,true,0
+263,1607029423088,/api/v1/sessions,POST,4691,1062,200,OK,true,0
+263,1607029423089,/api/v1/sessions,POST,4814,1062,200,OK,true,0
+263,1607029423101,/api/v1/sessions,POST,5067,1062,200,OK,true,0
+263,1607029423102,/api/v1/sessions,POST,5189,1062,200,OK,true,0
+263,1607029423108,/api/v1/sessions,POST,5317,1062,200,OK,true,0
+263,1607029423114,/api/v1/sessions,POST,5443,1062,200,OK,true,0
+263,1607029423116,/api/v1/sessions,POST,5566,1062,200,OK,true,0
+264,1607029423137,/api/v1/sessions,POST,3287,1062,200,OK,true,0
+264,1607029423143,/api/v1/sessions,POST,3414,1062,200,OK,true,0
+264,1607029423151,/api/v1/sessions,POST,3181,1062,200,OK,true,0
+264,1607029423171,/api/v1/sessions,POST,3926,1062,200,OK,true,0
+264,1607029423172,/api/v1/sessions,POST,6955,1062,200,OK,true,0
+264,1607029423196,/api/v1/sessions,POST,6858,1062,200,OK,true,0
+264,1607029423200,/api/v1/sessions,POST,19444,1062,200,OK,true,0
+264,1607029423241,/api/v1/sessions,POST,10895,1062,200,OK,true,0
+265,1607029423252,/api/v1/sessions,POST,7880,1062,200,OK,true,0
+265,1607029423260,/api/v1/sessions,POST,7767,1062,200,OK,true,0
+265,1607029423261,/api/v1/sessions,POST,1100,1062,200,OK,true,0
+265,1607029423263,/api/v1/sessions,POST,2809,1062,200,OK,true,0
+265,1607029423267,/api/v1/sessions,POST,8016,1062,200,OK,true,0
+265,1607029423288,/api/v1/sessions,POST,6101,1062,200,OK,true,0
+265,1607029423290,/api/v1/sessions,POST,7314,1062,200,OK,true,0
+265,1607029423316,/api/v1/sessions,POST,3709,1062,200,OK,true,0
+265,1607029423320,/api/v1/sessions,POST,6375,1062,200,OK,true,0
+265,1607029423338,/api/v1/sessions,POST,3006,1062,200,OK,true,0
+265,1607029423340,/api/v1/sessions,POST,4822,1062,200,OK,true,0
+265,1607029423351,/api/v1/sessions,POST,9068,1062,200,OK,true,0
+265,1607029423352,/api/v1/sessions,POST,8706,1062,200,OK,true,0
+266,1607029423376,/api/v1/sessions,POST,6553,1062,200,OK,true,0
+266,1607029423383,/api/v1/sessions,POST,4502,1062,200,OK,true,0
+266,1607029423384,/api/v1/sessions,POST,9344,1062,200,OK,true,0
+266,1607029423386,/api/v1/sessions,POST,3295,1062,200,OK,true,0
+266,1607029423404,/api/v1/sessions,POST,1002,1062,200,OK,true,0
+266,1607029423437,/api/v1/sessions,POST,4677,1062,200,OK,true,0
+266,1607029423454,/api/v1/sessions,POST,8688,1062,200,OK,true,0
+266,1607029423457,/api/v1/sessions,POST,9295,1062,200,OK,true,0
+266,1607029423462,/api/v1/sessions,POST,4096,1062,200,OK,true,0
+266,1607029423467,/api/v1/sessions,POST,7733,1062,200,OK,true,0
+266,1607029423468,/api/v1/sessions,POST,3256,1062,200,OK,true,0
+266,1607029423470,/api/v1/sessions,POST,8946,1062,200,OK,true,0
+267,1607029423490,/api/v1/sessions,POST,7635,1062,200,OK,true,0
+267,1607029423501,/api/v1/sessions,POST,4498,1062,200,OK,true,0
+267,1607029423507,/api/v1/sessions,POST,9104,1062,200,OK,true,0
+267,1607029423524,/api/v1/sessions,POST,6458,1062,200,OK,true,0
+267,1607029423527,/api/v1/sessions,POST,4403,1062,200,OK,true,0
+267,1607029423531,/api/v1/sessions,POST,4043,1062,200,OK,true,0
+267,1607029423571,/api/v1/sessions,POST,2676,1062,200,OK,true,0
+267,1607029423600,/api/v1/sessions,POST,1077,1062,200,OK,true,0
+267,1607029423602,/api/v1/sessions,POST,596,1062,200,OK,true,0
+267,1607029423605,/api/v1/sessions,POST,841,1062,200,OK,true,0
+268,1607029423611,/api/v1/sessions,POST,9692,1062,200,OK,true,0
+268,1607029423619,/api/v1/sessions,POST,733,1062,200,OK,true,0
+268,1607029423620,/api/v1/sessions,POST,976,1062,200,OK,true,0
+268,1607029423626,/api/v1/sessions,POST,500,1062,200,OK,true,0
+268,1607029423627,/api/v1/sessions,POST,380,1062,200,OK,true,0
+268,1607029423636,/api/v1/sessions,POST,1354,1062,200,OK,true,0
+268,1607029423641,/api/v1/sessions,POST,272,1062,200,OK,true,0
+268,1607029423643,/api/v1/sessions,POST,154,1062,200,OK,true,0
+268,1607029423649,/api/v1/sessions,POST,40,1062,200,OK,true,0
+269,1607029423749,/api/v1/sessions,POST,18,1062,200,OK,true,0
+270,1607029423866,/api/v1/sessions,POST,15,1062,200,OK,true,0
+271,1607029424023,/api/v1/sessions,POST,19,1062,200,OK,true,0
+272,1607029424119,/api/v1/sessions,POST,11409,1062,200,OK,true,0
+272,1607029424159,/api/v1/sessions,POST,3110,1062,200,OK,true,0
+272,1607029424161,/api/v1/sessions,POST,11693,1062,200,OK,true,0
+272,1607029424164,/api/v1/sessions,POST,11335,1062,200,OK,true,0
+272,1607029424165,/api/v1/sessions,POST,7706,1062,200,OK,true,0
+272,1607029424175,/api/v1/sessions,POST,7473,1062,200,OK,true,0
+272,1607029424176,/api/v1/sessions,POST,7595,1062,200,OK,true,0
+272,1607029424196,/api/v1/sessions,POST,8100,1062,200,OK,true,0
+273,1607029424243,/api/v1/carts,GET,46179,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+273,1607029424252,/api/v1/carts,GET,45773,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+273,1607029424280,/api/v1/carts,GET,46122,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+273,1607029424315,/api/v1/carts/items,POST,45833,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+273,1607029424321,/api/v1/carts/items,POST,23746,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+273,1607029424324,/api/v1/carts,GET,46061,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+273,1607029424334,/api/v1/carts,GET,23968,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+274,1607029424340,/api/v1/carts,GET,46304,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+274,1607029424345,/api/v1/carts,GET,46179,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+274,1607029424350,/api/v1/carts/items,POST,46247,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+274,1607029424361,/api/v1/carts/items,POST,46127,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+274,1607029424364,/api/v1/carts/items,POST,45886,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+274,1607029424370,/api/v1/carts,GET,46165,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+274,1607029424391,/api/v1/carts,GET,45505,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+274,1607029424405,/api/v1/carts/items,POST,46246,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+274,1607029424412,/api/v1/carts/items,POST,3167,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+274,1607029424424,/api/v1/carts/items,POST,23398,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+274,1607029424424,/api/v1/carts,GET,3445,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+274,1607029424437,/api/v1/carts/items,POST,45955,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+275,1607029424471,/api/v1/carts/items,POST,3382,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+275,1607029424479,/api/v1/carts/items,POST,46001,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+275,1607029424482,/api/v1/carts/items,POST,24197,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+275,1607029424484,/api/v1/carts/items,POST,24126,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+275,1607029424494,/api/v1/carts/items,POST,46224,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+275,1607029424505,/api/v1/carts,GET,24030,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+275,1607029424506,/api/v1/carts,GET,3307,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+275,1607029424553,/api/v1/carts,GET,46394,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+275,1607029424554,/api/v1/carts,GET,46065,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+275,1607029424562,/api/v1/carts,GET,46288,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+275,1607029424562,/api/v1/carts/items,POST,46085,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+275,1607029424571,/api/v1/carts/items,POST,24096,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+275,1607029424572,/api/v1/carts/items,POST,46366,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424579,/api/v1/carts,GET,46524,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424585,/api/v1/carts/items,POST,24219,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424586,/api/v1/carts,GET,46096,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424596,/api/v1/carts/items,POST,23784,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424598,/api/v1/carts,GET,46331,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424608,/api/v1/carts/items,POST,46126,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424612,/api/v1/carts/items,POST,24246,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424612,/api/v1/carts,GET,24245,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424614,/api/v1/carts,GET,46530,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424621,/api/v1/carts/items,POST,46132,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424623,/api/v1/carts,GET,23794,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424623,/api/v1/carts/items,POST,46145,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424629,/api/v1/carts,GET,3509,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424629,/api/v1/carts,GET,3495,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424630,/api/v1/carts/items,POST,24264,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424630,/api/v1/carts,GET,45743,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424640,/api/v1/carts/items,POST,3255,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424641,/api/v1/carts,GET,3284,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424643,/api/v1/carts,GET,46473,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424646,/api/v1/carts/items,POST,46167,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424647,/api/v1/carts/items,POST,3353,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424648,/api/v1/carts/items,POST,23942,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424649,/api/v1/carts/items,POST,3582,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424650,/api/v1/carts,GET,3456,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424654,/api/v1/carts/items,POST,3247,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424654,/api/v1/carts,GET,3491,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424656,/api/v1/carts/items,POST,3154,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424657,/api/v1/carts/items,POST,3130,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424662,/api/v1/carts,GET,3275,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424662,/api/v1/carts/items,POST,3208,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424665,/api/v1/carts,GET,3230,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424666,/api/v1/carts,GET,3311,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424670,/api/v1/carts/items,POST,3072,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424672,/api/v1/carts,GET,3571,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424678,/api/v1/carts/items,POST,3018,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424678,/api/v1/carts,GET,3248,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424679,/api/v1/carts/items,POST,3316,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424683,/api/v1/carts/items,POST,3022,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424684,/api/v1/carts,GET,2971,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424686,/api/v1/carts,GET,3013,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424689,/api/v1/carts,GET,3209,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424690,/api/v1/carts/items,POST,3013,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424692,/api/v1/carts,GET,2997,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029424694,/api/v1/carts/items,POST,3061,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+276,1607029424696,/api/v1/carts/items,POST,2992,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+299,1607029427388,/api/v1/sessions,POST,12258,1062,200,OK,true,0
+299,1607029427396,/api/v1/sessions,POST,10088,1062,200,OK,true,0
+299,1607029427399,/api/v1/sessions,POST,12390,1062,200,OK,true,0
+299,1607029427403,/api/v1/sessions,POST,6632,1062,200,OK,true,0
+299,1607029427406,/api/v1/sessions,POST,3313,1062,200,OK,true,0
+299,1607029427417,/api/v1/sessions,POST,3204,1062,200,OK,true,0
+300,1607029427485,/api/v1/sessions,POST,3151,1062,200,OK,true,0
+300,1607029427526,/api/v1/carts,GET,5752,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+300,1607029427551,/api/v1/carts,GET,5852,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+300,1607029427563,/api/v1/carts,GET,27786,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+300,1607029427570,/api/v1/sessions,POST,3115,1062,200,OK,true,0
+301,1607029427625,/api/v1/carts,GET,6834,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+301,1607029427662,/api/v1/carts/items,POST,5884,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+301,1607029427682,/api/v1/carts,GET,6914,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+301,1607029427697,/api/v1/carts/items,POST,6717,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+301,1607029427700,/api/v1/carts,GET,6653,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+301,1607029427713,/api/v1/sessions,POST,3137,1062,200,OK,true,0
+302,1607029427722,/api/v1/carts,GET,6661,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+302,1607029427733,/api/v1/carts/items,POST,26892,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+302,1607029427750,/api/v1/carts/items,POST,6863,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+302,1607029427758,/api/v1/carts,GET,6686,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+302,1607029427763,/api/v1/carts,GET,5840,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+302,1607029427794,/api/v1/carts/items,POST,27305,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+302,1607029427824,/api/v1/carts/items,POST,5898,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+303,1607029427849,/api/v1/carts/items,POST,5918,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+303,1607029427851,/api/v1/carts,GET,5810,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+303,1607029427854,/api/v1/carts/items,POST,5883,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+303,1607029427883,/api/v1/carts/items,POST,5902,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+303,1607029427896,/api/v1/carts/items,POST,5891,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+303,1607029427899,/api/v1/carts,GET,5716,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+303,1607029427903,/api/v1/carts,GET,5688,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+303,1607029427926,/api/v1/carts,GET,5739,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+303,1607029427935,/api/v1/carts/items,POST,5747,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+304,1607029427982,/api/v1/carts,GET,5683,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+304,1607029427990,/api/v1/carts,GET,5742,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+304,1607029428036,/api/v1/carts/items,POST,5703,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+305,1607029428094,/api/v1/carts/items,POST,5839,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+305,1607029428097,/api/v1/sessions,POST,3401,1062,200,OK,true,0
+305,1607029428118,/api/v1/carts/items,POST,5834,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+305,1607029428128,/api/v1/carts,GET,5896,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+305,1607029428155,/api/v1/carts/items,POST,5852,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+305,1607029428189,/api/v1/carts/items,POST,6088,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+306,1607029428201,/api/v1/carts,GET,5915,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+306,1607029428271,/api/v1/carts/items,POST,6001,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+306,1607029428273,/api/v1/carts,GET,5934,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+306,1607029428285,/api/v1/carts,GET,5807,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+306,1607029428288,/api/v1/carts,GET,5958,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+306,1607029428292,/api/v1/carts,GET,5848,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+307,1607029428367,/api/v1/carts,GET,6034,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+307,1607029428403,/api/v1/carts/items,POST,6000,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+307,1607029428419,/api/v1/carts/items,POST,5802,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+308,1607029428445,/api/v1/carts/items,POST,6040,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+308,1607029428448,/api/v1/carts,GET,5911,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+308,1607029428464,/api/v1/carts,GET,5934,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+308,1607029428500,/api/v1/carts/items,POST,6040,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+308,1607029428502,/api/v1/carts/items,POST,6051,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+308,1607029428508,/api/v1/carts,GET,5968,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+308,1607029428543,/api/v1/carts,GET,6014,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+308,1607029428550,/api/v1/carts,GET,6052,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+308,1607029428552,/api/v1/carts/items,POST,5883,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+309,1607029428606,/api/v1/carts/items,POST,6130,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+309,1607029428609,/api/v1/carts,GET,6126,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+309,1607029428615,/api/v1/carts/items,POST,5941,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+310,1607029428802,/api/v1/sessions,POST,3986,1062,200,OK,true,0
+301,1607029429008,/api/v1/carts/items,POST,6394,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+300,1607029429013,/api/v1/carts,GET,6472,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+299,1607029429027,/api/v1/carts/items,POST,6456,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+298,1607029429064,/api/v1/sessions,POST,1589,1062,200,OK,true,0
+297,1607029429065,/api/v1/sessions,POST,2557,1062,200,OK,true,0
+296,1607029429072,/api/v1/carts/items,POST,6377,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+295,1607029429078,/api/v1/sessions,POST,1482,1062,200,OK,true,0
+294,1607029429086,/api/v1/sessions,POST,2699,1062,200,OK,true,0
+293,1607029429107,/api/v1/sessions,POST,2478,1062,200,OK,true,0
+292,1607029429120,/api/v1/carts,GET,6605,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+291,1607029429132,/api/v1/sessions,POST,1416,1062,200,OK,true,0
+290,1607029429144,/api/v1/sessions,POST,1306,1062,200,OK,true,0
+289,1607029429146,/api/v1/sessions,POST,2396,1062,200,OK,true,0
+288,1607029429166,/api/v1/sessions,POST,2295,1062,200,OK,true,0
+287,1607029429283,/api/v1/carts,GET,6625,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+286,1607029429442,/api/v1/sessions,POST,4504,1062,200,OK,true,0
+285,1607029429449,/api/v1/carts,GET,6829,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+284,1607029429517,/api/v1/carts,GET,6841,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+283,1607029429552,/api/v1/sessions,POST,2561,1062,200,OK,true,0
+282,1607029429584,/api/v1/carts/items,POST,6879,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+281,1607029429598,/api/v1/carts,GET,6935,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+280,1607029429633,/api/v1/sessions,POST,1553,1062,200,OK,true,0
+279,1607029429662,/api/v1/carts/items,POST,6936,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+278,1607029429771,/api/v1/sessions,POST,4593,1062,200,OK,true,0
+277,1607029429816,/api/v1/carts,GET,7259,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+276,1607029429919,/api/v1/sessions,POST,1598,1062,200,OK,true,0
+275,1607029429938,/api/v1/sessions,POST,4639,1062,200,OK,true,0
+274,1607029429962,/api/v1/sessions,POST,2608,1062,200,OK,true,0
+273,1607029430093,/api/v1/sessions,POST,1530,1062,200,OK,true,0
+272,1607029430100,/api/v1/sessions,POST,4559,1062,200,OK,true,0
+271,1607029430121,/api/v1/carts,GET,7380,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+270,1607029430154,/api/v1/carts,GET,7420,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+269,1607029430182,/api/v1/carts/items,POST,7134,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+268,1607029430188,/api/v1/sessions,POST,1505,1062,200,OK,true,0
+267,1607029430202,/api/v1/sessions,POST,4541,1062,200,OK,true,0
+266,1607029430226,/api/v1/sessions,POST,1423,1062,200,OK,true,0
+265,1607029430242,/api/v1/sessions,POST,4459,1062,200,OK,true,0
+264,1607029430244,/api/v1/carts,GET,7522,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+263,1607029430326,/api/v1/carts,GET,7348,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+262,1607029430361,/api/v1/carts,GET,7631,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+261,1607029430364,/api/v1/sessions,POST,1439,1062,200,OK,true,0
+260,1607029430373,/api/v1/carts,GET,7513,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+259,1607029430387,/api/v1/sessions,POST,4484,1062,200,OK,true,0
+258,1607029430409,/api/v1/carts/items,POST,7633,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+257,1607029430434,/api/v1/sessions,POST,2475,1062,200,OK,true,0
+256,1607029430441,/api/v1/carts/items,POST,7518,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+255,1607029430463,/api/v1/sessions,POST,4439,1062,200,OK,true,0
+254,1607029430555,/api/v1/carts/items,POST,7625,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+253,1607029430559,/api/v1/carts/items,POST,7559,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+252,1607029430573,/api/v1/sessions,POST,2373,1062,200,OK,true,0
+251,1607029430590,/api/v1/sessions,POST,4446,1062,200,OK,true,0
+250,1607029430592,/api/v1/carts/items,POST,7566,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+249,1607029430614,/api/v1/carts/items,POST,7978,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+248,1607029430629,/api/v1/carts/items,POST,7676,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+247,1607029430643,/api/v1/carts,GET,7553,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+246,1607029430665,/api/v1/carts/items,POST,7808,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+245,1607029430670,/api/v1/sessions,POST,4404,1062,200,OK,true,0
+244,1607029430673,/api/v1/carts,GET,7665,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+243,1607029430736,/api/v1/carts,GET,7856,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+242,1607029430737,/api/v1/carts/items,POST,7628,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+241,1607029430789,/api/v1/sessions,POST,2347,1062,200,OK,true,0
+240,1607029430821,/api/v1/carts,GET,7732,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+239,1607029430842,/api/v1/carts,GET,7805,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+238,1607029430845,/api/v1/sessions,POST,3611,1062,200,OK,true,0
+237,1607029430854,/api/v1/sessions,POST,3742,1062,200,OK,true,0
+236,1607029430854,/api/v1/carts,GET,7808,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+235,1607029430885,/api/v1/carts/items,POST,7783,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+234,1607029430899,/api/v1/carts,GET,7827,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+233,1607029430980,/api/v1/carts/items,POST,8166,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+232,1607029430982,/api/v1/carts/items,POST,7916,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+231,1607029431044,/api/v1/carts/items,POST,8178,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+230,1607029431082,/api/v1/carts/items,POST,8266,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+229,1607029431118,/api/v1/carts,GET,8124,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+228,1607029431154,/api/v1/carts,GET,8365,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+227,1607029431177,/api/v1/carts,GET,8156,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+226,1607029431210,/api/v1/carts/items,POST,8220,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+225,1607029431224,/api/v1/carts,GET,8138,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+224,1607029431239,/api/v1/carts,GET,7748,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+223,1607029431268,/api/v1/carts/items,POST,8167,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+222,1607029431288,/api/v1/carts/items,POST,7834,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+221,1607029431305,/api/v1/carts,GET,7945,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+220,1607029431367,/api/v1/carts/items,POST,8586,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+219,1607029431383,/api/v1/carts/items,POST,7315,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+218,1607029431384,/api/v1/carts/items,POST,7922,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+217,1607029431393,/api/v1/carts,GET,8320,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+216,1607029431472,/api/v1/carts,GET,8509,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+215,1607029431481,/api/v1/carts/items,POST,8646,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+214,1607029431504,/api/v1/carts/items,POST,8127,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+213,1607029431539,/api/v1/carts,GET,8606,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+212,1607029431540,/api/v1/carts/items,POST,8554,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+211,1607029431606,/api/v1/carts/items,POST,8149,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+210,1607029431630,/api/v1/carts,GET,8615,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+209,1607029431850,/api/v1/carts/items,POST,8258,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+208,1607029431960,/api/v1/carts,GET,9111,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+207,1607029432107,/api/v1/carts/items,POST,7931,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+206,1607029432216,/api/v1/carts,GET,9294,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+205,1607029432219,/api/v1/carts/items,POST,4329,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+204,1607029432224,/api/v1/carts,GET,9173,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+203,1607029432226,/api/v1/carts/items,POST,8287,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+202,1607029432255,/api/v1/carts,GET,8306,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+201,1607029432260,/api/v1/carts,GET,8586,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+200,1607029432268,/api/v1/carts,GET,9378,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+199,1607029432288,/api/v1/carts/items,POST,9173,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+198,1607029432288,/api/v1/carts,GET,9243,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+197,1607029432295,/api/v1/carts,GET,8384,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+196,1607029432321,/api/v1/carts,GET,9150,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+195,1607029432321,/api/v1/carts/items,POST,8542,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+194,1607029432336,/api/v1/carts/items,POST,9289,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+193,1607029432358,/api/v1/carts,GET,8926,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+192,1607029432358,/api/v1/carts,GET,4953,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+191,1607029432361,/api/v1/carts,GET,8654,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+190,1607029432374,/api/v1/carts,GET,9022,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+189,1607029432382,/api/v1/carts,GET,9092,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+188,1607029432397,/api/v1/carts,GET,9225,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+187,1607029432406,/api/v1/carts,GET,9434,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+186,1607029432410,/api/v1/carts,GET,6022,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+185,1607029432417,/api/v1/carts/items,POST,8412,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+184,1607029432422,/api/v1/carts,GET,9414,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+183,1607029432438,/api/v1/carts/items,POST,5042,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+182,1607029432446,/api/v1/carts,GET,9130,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+181,1607029432456,/api/v1/carts,GET,8433,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+180,1607029432467,/api/v1/carts,GET,9350,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+179,1607029432478,/api/v1/carts/items,POST,9100,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+178,1607029432482,/api/v1/carts,GET,5078,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+177,1607029432487,/api/v1/carts,GET,9199,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+176,1607029432490,/api/v1/carts,GET,9238,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+175,1607029432502,/api/v1/carts/items,POST,8355,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+174,1607029432504,/api/v1/carts,GET,8533,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+173,1607029432505,/api/v1/carts/items,POST,4815,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+172,1607029432508,/api/v1/carts/items,POST,8374,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+171,1607029432521,/api/v1/carts/items,POST,5133,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+170,1607029432525,/api/v1/carts,GET,8519,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+169,1607029432525,/api/v1/carts,GET,8366,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+168,1607029432529,/api/v1/carts/items,POST,9377,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+167,1607029432532,/api/v1/carts/items,POST,9379,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+166,1607029432536,/api/v1/carts,GET,8908,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+165,1607029432536,/api/v1/carts/items,POST,5119,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+164,1607029432537,/api/v1/carts,GET,9153,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+163,1607029432537,/api/v1/carts/items,POST,8792,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+162,1607029432543,/api/v1/carts,GET,4667,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+161,1607029432546,/api/v1/carts,GET,7963,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+160,1607029432551,/api/v1/carts,GET,9414,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+159,1607029432558,/api/v1/carts,GET,8393,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+158,1607029432561,/api/v1/carts/items,POST,7935,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+157,1607029432563,/api/v1/carts/items,POST,4637,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+156,1607029432563,/api/v1/carts,GET,8054,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+155,1607029432587,/api/v1/carts/items,POST,9326,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+154,1607029432591,/api/v1/carts,GET,4679,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+153,1607029432595,/api/v1/carts/items,POST,9432,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+152,1607029432597,/api/v1/carts,GET,8983,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+151,1607029432598,/api/v1/carts,GET,9335,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+150,1607029432599,/api/v1/carts/items,POST,9120,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+149,1607029432599,/api/v1/carts,GET,8170,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+148,1607029432604,/api/v1/carts/items,POST,8429,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+147,1607029432605,/api/v1/carts/items,POST,4277,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+146,1607029432614,/api/v1/carts/items,POST,8017,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+145,1607029432619,/api/v1/carts/items,POST,7890,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+144,1607029432620,/api/v1/carts,GET,9098,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+143,1607029432623,/api/v1/carts/items,POST,8050,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+142,1607029432629,/api/v1/carts/items,POST,7483,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+141,1607029432630,/api/v1/carts,GET,9103,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+140,1607029432633,/api/v1/carts,GET,7932,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+139,1607029432638,/api/v1/carts/items,POST,4558,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+138,1607029432641,/api/v1/carts/items,POST,9121,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+137,1607029432643,/api/v1/carts,GET,7516,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+136,1607029432648,/api/v1/carts,GET,9181,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+135,1607029432648,/api/v1/carts,GET,8147,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+134,1607029432651,/api/v1/carts/items,POST,4479,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+133,1607029432657,/api/v1/carts/items,POST,7812,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+132,1607029432658,/api/v1/carts,GET,9189,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+131,1607029432660,/api/v1/carts/items,POST,9058,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+130,1607029432660,/api/v1/carts/items,POST,7528,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+129,1607029432665,/api/v1/carts/items,POST,9141,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+128,1607029432666,/api/v1/carts/items,POST,9017,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+127,1607029432670,/api/v1/carts/items,POST,7548,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+126,1607029432672,/api/v1/carts/items,POST,7837,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+125,1607029432677,/api/v1/carts,GET,9291,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+124,1607029432678,/api/v1/carts/items,POST,4636,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+123,1607029432679,/api/v1/carts/items,POST,4655,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+122,1607029432683,/api/v1/carts,GET,7942,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+121,1607029432685,/api/v1/carts,GET,4604,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+121,1607029432685,/api/v1/carts/items,POST,4588,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+119,1607029432686,/api/v1/carts/items,POST,8478,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+118,1607029432689,/api/v1/carts,GET,4305,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+117,1607029432689,/api/v1/carts/items,POST,7879,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+116,1607029432697,/api/v1/carts/items,POST,7812,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+115,1607029432698,/api/v1/carts/items,POST,7933,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+114,1607029432699,/api/v1/carts/items,POST,7933,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+113,1607029432704,/api/v1/carts/items,POST,7430,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+112,1607029432704,/api/v1/carts/items,POST,8941,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+111,1607029432706,/api/v1/carts/items,POST,7582,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+110,1607029432706,/api/v1/carts,GET,7794,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+109,1607029432706,/api/v1/carts/items,POST,4571,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+108,1607029432718,/api/v1/carts/items,POST,8954,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+107,1607029432719,/api/v1/carts/items,POST,4430,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+106,1607029432720,/api/v1/carts/items,POST,6969,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+105,1607029432721,/api/v1/carts/items,POST,4159,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+104,1607029432729,/api/v1/carts/items,POST,8190,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+103,1607029432730,/api/v1/carts/items,POST,7849,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+102,1607029432731,/api/v1/carts,GET,7440,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+101,1607029432734,/api/v1/carts,GET,7857,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+100,1607029432734,/api/v1/carts,GET,7168,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+99,1607029432735,/api/v1/carts,GET,3933,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+98,1607029432741,/api/v1/carts,GET,7854,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+98,1607029432741,/api/v1/carts,GET,7917,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+96,1607029432747,/api/v1/carts,GET,3816,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+95,1607029432747,/api/v1/carts,GET,3783,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+94,1607029432752,/api/v1/carts,GET,7434,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+93,1607029432756,/api/v1/carts/items,POST,8212,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+92,1607029432757,/api/v1/carts,GET,9250,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+91,1607029432758,/api/v1/carts,GET,7864,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+90,1607029432760,/api/v1/carts/items,POST,8025,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+89,1607029432767,/api/v1/carts,GET,6985,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+88,1607029432769,/api/v1/carts,GET,4081,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+87,1607029432769,/api/v1/carts/items,POST,7308,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+86,1607029432770,/api/v1/carts/items,POST,4174,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+85,1607029432771,/api/v1/carts/items,POST,4168,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+84,1607029432772,/api/v1/carts/items,POST,7905,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+83,1607029432773,/api/v1/carts/items,POST,4079,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+82,1607029432778,/api/v1/carts,GET,4501,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+81,1607029432779,/api/v1/carts/items,POST,3828,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+80,1607029432782,/api/v1/carts/items,POST,4331,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+79,1607029432783,/api/v1/carts/items,POST,4269,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+78,1607029432787,/api/v1/carts/items,POST,7046,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+77,1607029432791,/api/v1/carts/items,POST,3929,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+76,1607029432796,/api/v1/carts,GET,8012,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+75,1607029432798,/api/v1/sessions,POST,7739,1062,200,OK,true,0
+74,1607029432804,/api/v1/sessions,POST,7384,1062,200,OK,true,0
+73,1607029432811,/api/v1/carts/items,POST,4159,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+73,1607029432811,/api/v1/carts/items,POST,6951,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+71,1607029432822,/api/v1/carts,GET,4812,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+70,1607029432822,/api/v1/carts,GET,9164,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+69,1607029432836,/api/v1/carts,GET,8042,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+68,1607029432842,/api/v1/carts,GET,4690,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+67,1607029432843,/api/v1/carts/items,POST,4112,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+66,1607029432844,/api/v1/carts,GET,9648,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+65,1607029432847,/api/v1/carts/items,POST,4422,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+64,1607029432881,/api/v1/carts/items,POST,8026,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+63,1607029432889,/api/v1/carts,GET,4003,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+62,1607029432890,/api/v1/carts/items,POST,4107,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+61,1607029432901,/api/v1/carts/items,POST,9701,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+60,1607029432908,/api/v1/carts/items,POST,4116,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+59,1607029432909,/api/v1/carts/items,POST,4408,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+58,1607029432931,/api/v1/carts,GET,4435,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+57,1607029432932,/api/v1/carts,GET,8084,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+56,1607029432938,/api/v1/carts/items,POST,4788,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+55,1607029432944,/api/v1/carts/items,POST,4308,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+54,1607029432954,/api/v1/carts/items,POST,4281,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+53,1607029432962,/api/v1/carts/items,POST,4921,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+52,1607029432966,/api/v1/carts/items,POST,4219,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+51,1607029432968,/api/v1/carts,GET,9774,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+50,1607029432969,/api/v1/carts/items,POST,4420,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+49,1607029432973,/api/v1/carts,GET,4176,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+48,1607029432979,/api/v1/carts/items,POST,4039,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+47,1607029432982,/api/v1/carts/items,POST,8154,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+46,1607029432987,/api/v1/carts,GET,4599,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+45,1607029432993,/api/v1/carts,GET,4197,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+44,1607029432995,/api/v1/carts/items,POST,9395,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+43,1607029433000,/api/v1/carts,GET,9369,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+42,1607029433004,/api/v1/carts/items,POST,8131,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+41,1607029433007,/api/v1/carts/items,POST,8320,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+40,1607029433010,/api/v1/carts/items,POST,8240,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+39,1607029433010,/api/v1/carts,GET,8361,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+38,1607029433015,/api/v1/carts/items,POST,8151,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+37,1607029433017,/api/v1/carts/items,POST,9373,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+36,1607029433017,/api/v1/carts,GET,9357,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+35,1607029433019,/api/v1/carts/items,POST,9269,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+34,1607029433026,/api/v1/carts/items,POST,9385,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+33,1607029433027,/api/v1/carts,GET,8045,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+32,1607029433028,/api/v1/carts,GET,9271,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+31,1607029433030,/api/v1/carts/items,POST,8833,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+30,1607029433036,/api/v1/carts/items,POST,8063,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+29,1607029433042,/api/v1/carts,GET,7983,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+28,1607029433043,/api/v1/carts,GET,8046,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+27,1607029433045,/api/v1/carts/items,POST,8118,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+26,1607029433054,/api/v1/carts/items,POST,8113,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+25,1607029433056,/api/v1/carts/items,POST,8019,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+24,1607029433068,/api/v1/carts,GET,7854,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+23,1607029433069,/api/v1/carts/items,POST,8053,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+22,1607029433075,/api/v1/carts/items,POST,8010,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+21,1607029433077,/api/v1/carts/items,POST,8129,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+20,1607029433081,/api/v1/carts/items,POST,8122,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+19,1607029433083,/api/v1/carts,GET,8030,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+18,1607029433083,/api/v1/carts,GET,8152,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+17,1607029433091,/api/v1/carts,GET,8146,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+16,1607029433096,/api/v1/carts/items,POST,7698,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+15,1607029433096,/api/v1/carts/items,POST,7739,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+14,1607029433097,/api/v1/carts,GET,8102,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+13,1607029433099,/api/v1/carts,GET,8125,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+12,1607029433100,/api/v1/carts/items,POST,8134,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+11,1607029433101,/api/v1/carts/items,POST,8156,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+10,1607029433105,/api/v1/carts,GET,8166,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+9,1607029433106,/api/v1/carts,GET,8018,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+8,1607029433107,/api/v1/carts/items,POST,8018,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+7,1607029433107,/api/v1/carts,GET,8153,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+6,1607029433110,/api/v1/carts/items,POST,8045,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+5,1607029433110,/api/v1/carts,GET,7748,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+4,1607029433113,/api/v1/carts/items,POST,7679,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+3,1607029433116,/api/v1/carts,GET,7668,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0
+2,1607029433116,/api/v1/carts/items,POST,7727,35752,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts/items,false,0
+1,1607029433117,/api/v1/carts,GET,8187,35745,500,INTERNAL SERVER ERROR for url: http://127.0.0.1:60002/api/v1/carts,false,0

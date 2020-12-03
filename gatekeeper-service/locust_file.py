@@ -6,7 +6,7 @@ resource.setrlimit(resource.RLIMIT_NOFILE, (999999, 999999))
 
 class GatekeeperService(HttpUser):
     ## Random wait time between 0.5 and 10 seconds 
-    wait_time = between(0.5, 10)
+    wait_time = between(0.1, 0.5)
 
     @task
     def sessions_post(self):
