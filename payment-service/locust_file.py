@@ -22,7 +22,8 @@ class PaymentServie(HttpUser):
         ## Set Authorization Headers
         self.headers = {"Authorization": "Bearer " + token}
         ## Get ids
-        self.RESS = []
+        self.RESS_PAYMENTS = []
+        self.RESS_TRANSACTION = []
 
     def get_random_string(self, length):
         letters = string.ascii_lowercase
@@ -32,10 +33,10 @@ class PaymentServie(HttpUser):
     ###
     ### Payments Endpoint
     ###
-    @task
+    @task(1)
     def payments_get(self):
         res = self.client.get("/api/v1/payments")
-        self.RESS = res.json()['data']
+        self.RESS_PAYMENTS = res.json()['data']
 
     @task
     def payments_post(self):
@@ -49,18 +50,16 @@ class PaymentServie(HttpUser):
 
     @task
     def payment_get(self):
-        print("+++++++++++++++++++")
-        print((random.choice(self.RESS))['_id']['$oid'])
-        if self.RESS:
-            id = (random.choice(self.RESS))['_id']['$oid']
+        if self.RESS_PAYMENTS:
+            id = (random.choice(self.RESS_PAYMENTS))['_id']['$oid']
         else:
             id = self.get_random_string(12)
         self.client.get("/api/v1/payments/" + id)
 
     @task
     def payment_put(self):
-        if self.RESS:
-            id = (random.choice(self.RESS))['_id']['$oid']
+        if self.RESS_PAYMENTS:
+            id = (random.choice(self.RESS_PAYMENTS))['_id']['$oid']
         else:
             id = self.get_random_string(12)
         data = {
@@ -71,5 +70,44 @@ class PaymentServie(HttpUser):
         }
         self.client.put("/api/v1/payments/" + id, headers=self.headers, json=data)
 
-    
-    
+    ###
+    ### Transaction Endpoint
+    ###
+    @task(1)
+    def transactions_get(self):
+        res = self.client.get("/api/v1/transactions")
+        self.RESS_TRANSACTION = res.json()['data']
+
+    @task
+    def transactions_post(self):
+        data = {
+            "transaction_id": self.get_random_string(6),
+            "transaction_date": "10/02/2020",
+            "transaction_medium": "MBirr",
+            "amount": str(random.randint(100, 1000)),
+            "flag": ""
+        }
+        self.client.post("/api/v1/transactions", headers=self.headers, json=data)
+
+    @task
+    def transaction_get(self):
+        if self.RESS_TRANSACTION:
+            id = (random.choice(self.RESS_TRANSACTION))['_id']['$oid']
+        else:
+            id = self.get_random_string(12)
+        self.client.get("/api/v1/transactions/" + id)
+
+    @task
+    def transaction_put(self):
+        if self.RESS_TRANSACTION:
+            id = (random.choice(self.RESS_TRANSACTION))['_id']['$oid']
+        else:
+            id = self.get_random_string(12)
+        data = {
+            "transaction_id": self.get_random_string(6),
+            "transaction_date": "10/02/2020",
+            "transaction_medium": "MBirr",
+            "amount": str(random.randint(100, 1000)),
+            "flag": ""
+        }
+        self.client.put("/api/v1/transactions/" + id, headers=self.headers, json=data)

@@ -10,7 +10,7 @@ execution:
 
 scenarios:
   example:
-    default-address: http://127.0.0.1:60001
+    default-address: http://127.0.0.1:60008
     script: locust_file.py
 
 reporting:
@@ -25,6 +25,6 @@ reporting:
   data-source: pass-fail
   filename: ./btz_result/junit-result.xml
 - module: blazemeter
-  report-name: Branch service test report
-  test: Branch service test
+  report-name: Payment service test report
+  test: Payment service test
   project: Guya LTD
