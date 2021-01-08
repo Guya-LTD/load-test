@@ -1,0 +1,28 @@
+---
+execution:
+- concurrency: 250
+  executor: locust
+  ramp-up: 1m
+  scenario: example
+included-configs:
+- ../blaze_meter/apikey.yml
+reporting:
+- module: console
+- dump-csv: ./btz_result/perf_result_csv.csv
+  failed-labels: false
+  module: final-stats
+  percentiles: true
+  summary: true
+  test-duration: true
+- data-source: pass-fail
+  filename: ./btz_result/junit-result.xml
+  module: junit-xml
+- module: blazemeter
+  project: Guya LTD
+  report-name: User service test report
+  test: User service test
+scenarios:
+  example:
+    default-address: http://127.0.0.1:60010
+    script: locust_file.py
+

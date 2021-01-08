@@ -1,0 +1,85 @@
+[DEPRECATED] The --hatch-rate parameter has been renamed --spawn-rate
+ Name                                                          # reqs      # fails  |     Avg     Min     Max  Median  |   req/s failures/s
+--------------------------------------------------------------------------------------------------------------------------------------------
+ GET /api/v1/permissions                                          103     0(0.00%)  |      69       9     407      29  |    7.39    0.00
+ POST /api/v1/permissions                                         107     0(0.00%)  |      80       6     487      35  |    7.68    0.00
+ GET /api/v1/roles                                                111     0(0.00%)  |      75       8     525      28  |    7.97    0.00
+ POST /api/v1/roles                                               103 103(100.00%)  |     245      11     777     120  |    7.39    7.39
+ GET /api/v1/roles/1                                              112     0(0.00%)  |      67       5     419      18  |    8.04    0.00
+ GET /api/v1/users                                                110     0(0.00%)  |     141      22     414     120  |    7.90    0.00
+ POST /api/v1/users                                               113 113(100.00%)  |     316      19    1109     110  |    8.11    8.11
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Aggregated                                                       759  216(28.46%)  |     142       5    1109      55  |   54.49   15.51
+
+Response time percentiles (approximated)
+ Type     Name                                                              50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|------------------------------------------------------------|---------|------|------|------|------|------|------|------|------|------|------|------|
+ GET      /api/v1/permissions                                                29     48     95    110    180    270    310    330    410    410    410    103
+ POST     /api/v1/permissions                                                35     94    140    160    190    270    340    360    490    490    490    107
+ GET      /api/v1/roles                                                      28     93    120    140    170    230    330    350    530    530    530    111
+ POST     /api/v1/roles                                                     120    400    450    520    590    660    680    700    780    780    780    103
+ GET      /api/v1/roles/1                                                    19     53    110    130    170    310    400    400    420    420    420    112
+ GET      /api/v1/users                                                     120    190    220    250    310    340    380    380    410    410    410    110
+ POST     /api/v1/users                                                     110    260    700    760    850    930   1000   1100   1100   1100   1100    113
+--------|------------------------------------------------------------|---------|------|------|------|------|------|------|------|------|------|------|------|
+ None     Aggregated                                                         55    120    170    200    410    650    830    910   1100   1100   1100    759
+
+Error report
+ # occurrences      Error                                                                                               
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 113                POST /api/v1/users: "HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:60010/api/v1/users')"
+ 103                POST /api/v1/roles: "HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:60010/api/v1/roles')"
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+ Name                                                          # reqs      # fails  |     Avg     Min     Max  Median  |   req/s failures/s
+--------------------------------------------------------------------------------------------------------------------------------------------
+ GET /api/v1/permissions                                          103     0(0.00%)  |      69       9     407      29  |    7.39    0.00
+ POST /api/v1/permissions                                         107     0(0.00%)  |      80       6     487      35  |    7.68    0.00
+ GET /api/v1/roles                                                111     0(0.00%)  |      75       8     525      28  |    7.97    0.00
+ POST /api/v1/roles                                               103 103(100.00%)  |     245      11     777     120  |    7.39    7.39
+ GET /api/v1/roles/1                                              112     0(0.00%)  |      67       5     419      18  |    8.04    0.00
+ GET /api/v1/users                                                110     0(0.00%)  |     141      22     414     120  |    7.90    0.00
+ POST /api/v1/users                                               113 113(100.00%)  |     316      19    1109     110  |    8.11    8.11
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Aggregated                                                       759  216(28.46%)  |     142       5    1109      55  |   54.49   15.51
+
+Response time percentiles (approximated)
+ Type     Name                                                              50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|------------------------------------------------------------|---------|------|------|------|------|------|------|------|------|------|------|------|
+ GET      /api/v1/permissions                                                29     48     95    110    180    270    310    330    410    410    410    103
+ POST     /api/v1/permissions                                                35     94    140    160    190    270    340    360    490    490    490    107
+ GET      /api/v1/roles                                                      28     93    120    140    170    230    330    350    530    530    530    111
+ POST     /api/v1/roles                                                     120    400    450    520    590    660    680    700    780    780    780    103
+ GET      /api/v1/roles/1                                                    19     53    110    130    170    310    400    400    420    420    420    112
+ GET      /api/v1/users                                                     120    190    220    250    310    340    380    380    410    410    410    110
+ POST     /api/v1/users                                                     110    260    700    760    850    930   1000   1100   1100   1100   1100    113
+--------|------------------------------------------------------------|---------|------|------|------|------|------|------|------|------|------|------|------|
+ None     Aggregated                                                         55    120    170    200    410    650    830    910   1100   1100   1100    759
+
+Error report
+ # occurrences      Error                                                                                               
+--------------------------------------------------------------------------------------------------------------------------------------------
+ 113                POST /api/v1/users: "HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:60010/api/v1/users')"
+ 103                POST /api/v1/roles: "HTTPError('500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:60010/api/v1/roles')"
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+Traceback (most recent call last):
+  File "/home/admin/.local/lib/python3.8/site-packages/gevent/monkey.py", line 867, in _shutdown
+    sleep()
+  File "/home/admin/.local/lib/python3.8/site-packages/gevent/hub.py", line 156, in sleep
+    waiter.get()
+  File "src/gevent/_waiter.py", line 140, in gevent._gevent_c_waiter.Waiter.get
+  File "src/gevent/_waiter.py", line 151, in gevent._gevent_c_waiter.Waiter.get
+  File "src/gevent/_greenlet_primitives.py", line 61, in gevent._gevent_c_greenlet_primitives.SwitchOutGreenletWithLoop.switch
+  File "src/gevent/_greenlet_primitives.py", line 61, in gevent._gevent_c_greenlet_primitives.SwitchOutGreenletWithLoop.switch
+  File "src/gevent/_greenlet_primitives.py", line 65, in gevent._gevent_c_greenlet_primitives.SwitchOutGreenletWithLoop.switch
+  File "src/gevent/_gevent_c_greenlet_primitives.pxd", line 35, in gevent._gevent_c_greenlet_primitives._greenlet_switch
+  File "/home/admin/.local/lib/python3.8/site-packages/gevent/hub.py", line 297, in handle
+    self.handler(*self.args, **self.kwargs)
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/main.py", line 388, in sig_term_handler
+    shutdown()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/main.py", line 383, in shutdown
+    sys.exit(code)
+SystemExit: 2
+2021-01-03T21:23:04Z <greenlet.greenlet object at 0x7f485301e510> failed with SystemExit
+

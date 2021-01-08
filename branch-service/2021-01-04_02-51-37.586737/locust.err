@@ -1,0 +1,2566 @@
+[DEPRECATED] The --hatch-rate parameter has been renamed --spawn-rate
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:44Z <Greenlet at 0x7f37c76fdae0: run_user(<locust_file.BranchService object at 0x7f37c76b843)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:44Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c7707c1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:44Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c7694fa)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:45Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c772352)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:45Z <Greenlet at 0x7f37c769b370: run_user(<locust_file.BranchService object at 0x7f37c6e35d3)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:45Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e350a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:45Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e3546)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:46Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e3582)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:46Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c7694ee)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:46Z <Greenlet at 0x7f37c769b590: run_user(<locust_file.BranchService object at 0x7f37c6e3cd6)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:46Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e3cee)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:47Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e3ceb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:47Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c772385)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:47Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e350d)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:47Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e45f7)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:48Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e4558)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:48Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c770797)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:48Z <Greenlet at 0x7f37c769b6a0: run_user(<locust_file.BranchService object at 0x7f37c6e3546)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:48Z <Greenlet at 0x7f37c769b7b0: run_user(<locust_file.BranchService object at 0x7f37c7723bb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:48Z <Greenlet at 0x7f37c769b6a0: run_user(<locust_file.BranchService object at 0x7f37c6e51c1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:49Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c7694f7)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:49Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c76947c)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:49Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e353d)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:49Z <Greenlet at 0x7f37c769b9d0: run_user(<locust_file.BranchService object at 0x7f37c6e354c)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:50Z <Greenlet at 0x7f37c769bae0: run_user(<locust_file.BranchService object at 0x7f37c6e6482)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:50Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e6452)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:50Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e58af)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:50Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e3c49)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:51Z <Greenlet at 0x7f37c769b6a0: run_user(<locust_file.BranchService object at 0x7f37c6e3c94)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:51Z <Greenlet at 0x7f37c769bbf0: run_user(<locust_file.BranchService object at 0x7f37c6e51ca)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:51Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c772388)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:51Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c772385)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:52Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e58eb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:52Z <Greenlet at 0x7f37c769bae0: run_user(<locust_file.BranchService object at 0x7f37c6e58bb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:52Z <Greenlet at 0x7f37c769bd00: run_user(<locust_file.BranchService object at 0x7f37c6dec16)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:52Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6decaf)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:53Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e3ccd)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:53Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e5807)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:53Z <Greenlet at 0x7f37c769bbf0: run_user(<locust_file.BranchService object at 0x7f37c6e3519)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:53Z <Greenlet at 0x7f37c769be10: run_user(<locust_file.BranchService object at 0x7f37c7694df)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:54Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e51ca)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:54Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e3cf7)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:54Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c7707bb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:54Z <Greenlet at 0x7f37c769bd00: run_user(<locust_file.BranchService object at 0x7f37c7707ca)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:54Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6dec9a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:55Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e58d3)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:55Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e4558)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:55Z <Greenlet at 0x7f37c769be10: run_user(<locust_file.BranchService object at 0x7f37c772376)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:55Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dffc4)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:56Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6df6b5)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:56Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e51ca)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:56Z <Greenlet at 0x7f37c6e02040: run_user(<locust_file.BranchService object at 0x7f37c6e3540)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:56Z <Greenlet at 0x7f37c6e02150: run_user(<locust_file.BranchService object at 0x7f37c6e581c)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:57Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0882)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:57Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e08c4)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:57Z <Greenlet at 0x7f37c6e02040: run_user(<locust_file.BranchService object at 0x7f37c6e58d9)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:57Z <Greenlet at 0x7f37c6e02260: run_user(<locust_file.BranchService object at 0x7f37c6e58fa)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:58Z <Greenlet at 0x7f37c6e02370: run_user(<locust_file.BranchService object at 0x7f37c6e0ef1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:58Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e0eaf)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:58Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e0ec1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:58Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0e0a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:59Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e0822)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:59Z <Greenlet at 0x7f37c769be10: run_user(<locust_file.BranchService object at 0x7f37c7707bb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:59Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6dff52)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:51:59Z <Greenlet at 0x7f37c769bd00: run_user(<locust_file.BranchService object at 0x7f37c7707d6)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:00Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dff61)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:00Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0858)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:00Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e08df)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:00Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6df6a0)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:01Z <Greenlet at 0x7f37c769bbf0: run_user(<locust_file.BranchService object at 0x7f37c6df67f)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:01Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0e58)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:01Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c7707c4)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:01Z <Greenlet at 0x7f37c769bd00: run_user(<locust_file.BranchService object at 0x7f37c7707d0)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:01Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c7707c1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:02Z <Greenlet at 0x7f37c769bae0: run_user(<locust_file.BranchService object at 0x7f37c76947c)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:02Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dff5e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:02Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e08e2)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:02Z <Greenlet at 0x7f37c769bbf0: run_user(<locust_file.BranchService object at 0x7f37c6e0ec4)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:03Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c77233d)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:03Z <Greenlet at 0x7f37c769b6a0: run_user(<locust_file.BranchService object at 0x7f37c772331)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:03Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0e67)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:03Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e0828)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:04Z <Greenlet at 0x7f37c769bae0: run_user(<locust_file.BranchService object at 0x7f37c6e0846)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:04Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c7707a3)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:04Z <Greenlet at 0x7f37c769b9d0: run_user(<locust_file.BranchService object at 0x7f37c6dffdc)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:04Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6df6e8)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:05Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6dec58)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:05Z <Greenlet at 0x7f37c769b6a0: run_user(<locust_file.BranchService object at 0x7f37c6e0e04)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:05Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e35a3)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:05Z <Greenlet at 0x7f37c769b7b0: run_user(<locust_file.BranchService object at 0x7f37c6decc1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:06Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0e4f)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:06Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e0e82)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:06Z <Greenlet at 0x7f37c769b9d0: run_user(<locust_file.BranchService object at 0x7f37c6dffd3)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:06Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e18d9)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:07Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6dfff7)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:07Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e08bb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:07Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6deca0)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:07Z <Greenlet at 0x7f37c769b7b0: run_user(<locust_file.BranchService object at 0x7f37c6e0e19)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:08Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e644f)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:08Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e35e8)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:08Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e35d0)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:08Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e088e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:08Z <Greenlet at 0x7f37c769b590: run_user(<locust_file.BranchService object at 0x7f37c6e08dc)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:09Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6dff61)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:09Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6dff4f)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:09Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c772331)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:09Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6dec19)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:10Z <Greenlet at 0x7f37c769b370: run_user(<locust_file.BranchService object at 0x7f37c6dec1c)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:10Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c772331)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:10Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e640a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:10Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e35b8)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:11Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e3561)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:11Z <Greenlet at 0x7f37c6e02480: run_user(<locust_file.BranchService object at 0x7f37c6dff0a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:11Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6dff7c)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:11Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e45b8)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:12Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e450a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:12Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c77233d)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:12Z <Greenlet at 0x7f37c6e02260: run_user(<locust_file.BranchService object at 0x7f37c6e0e91)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:12Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e0143)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:13Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0161)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:13Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e18b2)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:13Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e182b)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:13Z <Greenlet at 0x7f37c769b370: run_user(<locust_file.BranchService object at 0x7f37c77239a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:14Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6dec85)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:14Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6decd0)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:14Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c772331)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:14Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e35cd)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:15Z <Greenlet at 0x7f37c769b590: run_user(<locust_file.BranchService object at 0x7f37c6e18f4)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:15Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e016d)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:15Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37cb21516)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:15Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e18fa)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:15Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c772367)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:16Z <Greenlet at 0x7f37c769b7b0: run_user(<locust_file.BranchService object at 0x7f37c6e35c7)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:16Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c7694fd)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:16Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6dec0d)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:16Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dec8e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:17Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c772343)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:17Z <Greenlet at 0x7f37c769b9d0: run_user(<locust_file.BranchService object at 0x7f37c6e0143)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:17Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c770791)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:17Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0e31)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:18Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37cb21516)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:18Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c7694d3)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:18Z <Greenlet at 0x7f37c769b6a0: run_user(<locust_file.BranchService object at 0x7f37c6decdf)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:18Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e0822)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:19Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e08fd)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:19Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c7707d9)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:19Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e3537)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:19Z <Greenlet at 0x7f37c769bae0: run_user(<locust_file.BranchService object at 0x7f37c6e0146)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:20Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6df68b)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:20Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e012e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:20Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e18e2)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:20Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e1819)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:21Z <Greenlet at 0x7f37c769bbf0: run_user(<locust_file.BranchService object at 0x7f37c6e35a3)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:21Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6dec8e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:21Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6decd0)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:21Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e35c1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:22Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0e2e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:22Z <Greenlet at 0x7f37c769bd00: run_user(<locust_file.BranchService object at 0x7f37c6df68e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:22Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6df664)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:22Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6df628)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:22Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e0e88)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:23Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c7707bb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:23Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6dec10)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:23Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6dff82)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:23Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6dff91)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:24Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6df628)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:24Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c7707bb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:24Z <Greenlet at 0x7f37c769be10: run_user(<locust_file.BranchService object at 0x7f37c6e010d)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:24Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e0197)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:25Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e013a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:25Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e0ec1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:25Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c7707d9)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:25Z <Greenlet at 0x7f37c6e02480: run_user(<locust_file.BranchService object at 0x7f37c6e3594)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:26Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6dec8e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:26Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e458b)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:26Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e0e55)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:26Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e1f94)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:27Z <Greenlet at 0x7f37c6e02040: run_user(<locust_file.BranchService object at 0x7f37c6e1fdf)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:27Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e1dc1)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:27Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e1d07)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:27Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e3c58)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:28Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e3c0a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:28Z <Greenlet at 0x7f37c769be10: run_user(<locust_file.BranchService object at 0x7f37c6e1f43)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:28Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6dffeb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:28Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6dffa0)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:28Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dffaf)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:29Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e1feb)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:29Z <Greenlet at 0x7f37c769b260: run_user(<locust_file.BranchService object at 0x7f37c6e1d3a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:29Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e1d43)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:29Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6df670)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:30Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e3c0d)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:30Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e3cb2)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:30Z <Greenlet at 0x7f37c769bd00: run_user(<locust_file.BranchService object at 0x7f37c6e1f8e)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:30Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e0e82)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:31Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c7707c4)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:31Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dff94)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:31Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e1f79)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:31Z <Greenlet at 0x7f37c769bbf0: run_user(<locust_file.BranchService object at 0x7f37c6df682)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:32Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6df6fa)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:32Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6df67c)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:32Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e3cc4)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:32Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e1f61)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:33Z <Greenlet at 0x7f37c769bae0: run_user(<locust_file.BranchService object at 0x7f37c6dff91)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:33Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c7707b8)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:33Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e0155)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:33Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dffca)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:34Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e1fd3)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:34Z <Greenlet at 0x7f37c769b6a0: run_user(<locust_file.BranchService object at 0x7f37c6e3c61)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:34Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c7723a0)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:34Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c7694d6)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:35Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e3cc7)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:35Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e3cc4)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:35Z <Greenlet at 0x7f37c769b9d0: run_user(<locust_file.BranchService object at 0x7f37c6e1fd9)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:35Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e1861)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:35Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e1816)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:36Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dff82)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:36Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e1fb8)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:36Z <Greenlet at 0x7f37c769b7b0: run_user(<locust_file.BranchService object at 0x7f37c772367)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:36Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c77238b)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:37Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c7694d6)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:37Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e3ca9)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:37Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e012b)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:37Z <Greenlet at 0x7f37c769b590: run_user(<locust_file.BranchService object at 0x7f37c6e353a)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:38Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e0882)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:38Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e08dc)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:38Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6e35df)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:38Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6e1f61)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:39Z <Greenlet at 0x7f37c769b370: run_user(<locust_file.BranchService object at 0x7f37c6e3c76)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:39Z <Greenlet at 0x7f37c769b8c0: run_user(<locust_file.BranchService object at 0x7f37c6dec82)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:39Z <Greenlet at 0x7f37c769b150: run_user(<locust_file.BranchService object at 0x7f37c6dec58)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:39Z <Greenlet at 0x7f37c769b480: run_user(<locust_file.BranchService object at 0x7f37c6e3c07)> failed with NameError
+
+Traceback (most recent call last):
+  File "src/gevent/greenlet.py", line 854, in gevent._gevent_cgreenlet.Greenlet.run
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 172, in run_user
+    user.run()
+  File "/home/admin/.local/lib/python3.8/site-packages/locust/user/users.py", line 138, in run
+    self.on_start()
+  File "/home/admin/Documents/projects/organizations/guya-ltd/guya-dev/load-test/branch-service/locust_file.py", line 20, in on_start
+    token = json.loads(response._content)['data']['token']
+NameError: name 'json' is not defined
+2021-01-03T23:52:40Z <Greenlet at 0x7f37c76fdd00: run_user(<locust_file.BranchService object at 0x7f37c6e1f8b)> failed with NameError
+
+ Name                                                          # reqs      # fails  |     Avg     Min     Max  Median  |   req/s failures/s
+--------------------------------------------------------------------------------------------------------------------------------------------
+ POST /api/v1/sessions                                            232     0(0.00%)  |      24      13      74      20  |    4.16    0.00
+--------------------------------------------------------------------------------------------------------------------------------------------
+ Aggregated                                                       232     0(0.00%)  |      24      13      74      20  |    4.16    0.00
+
+Response time percentiles (approximated)
+ Type     Name                                                              50%    66%    75%    80%    90%    95%    98%    99%  99.9% 99.99%   100% # reqs
+--------|------------------------------------------------------------|---------|------|------|------|------|------|------|------|------|------|------|------|
+ POST     /api/v1/sessions                                                   21     26     35     37     38     40     43     59     74     74     74    232
+--------|------------------------------------------------------------|---------|------|------|------|------|------|------|------|------|------|------|------|
+ None     Aggregated                                                         21     26     35     37     38     40     43     59     74     74     74    232
+
